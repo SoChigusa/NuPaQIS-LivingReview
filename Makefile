@@ -1,4 +1,5 @@
 date = $(shell date +%Y-%m-%d)
+PYTHON ?= /Users/sochigusa/miniforge3/bin/python3
 
 INSPIRE_REFRESH ?= 0
 export INSPIRE_REFRESH
@@ -9,7 +10,7 @@ refresh:
 	$(MAKE) INSPIRE_REFRESH=1 all
 
 nupaqis: make_nupaqis.py
-	python3 make_nupaqis.py
+	$(PYTHON) make_nupaqis.py
 
 clean:
 	rm -f INTRODUCTION.tex BYNUPA.tex BYQIS.tex
@@ -22,11 +23,11 @@ realclean: clean
 
 yaml: sort_yaml.py NUPAQIS.yaml
 	cp NUPAQIS.yaml NUPAQIS_copy.yaml
-	python3 sort_yaml.py
+	$(PYTHON) sort_yaml.py
 	mv NUPAQIS_copy.yaml NUPAQIS.yaml
 
 main:
-	latexmk -bibtex -logfilewarnings -f -interaction=nonstopmode NUPAQIS
+	latexmk -lualatex -bibtex -logfilewarnings -f -interaction=nonstopmode NUPAQIS
 	mkdir -p DRAFTS
 	rsync NUPAQIS.pdf DRAFTS/draft_$(date).pdf
 
