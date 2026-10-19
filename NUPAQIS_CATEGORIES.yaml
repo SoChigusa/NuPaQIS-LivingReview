@@ -32,19 +32,32 @@
   Description: >-
     Dark Matter (DM) constitutes about 85\% of the matter in the universe but has not been directly observed through electromagnetic interactions. Unlike normal matter, DM does not emit, absorb, or reflect light, making it invisible to electromagnetic observations. The existence of DM is inferred from its gravitational effects on visible matter. The nature of DM is one of the most significant open questions in physics. Understanding dark matter draws on two complementary fronts: particle physics proposes candidate particles and explores their possible interactions with ordinary matter, while general relativity, astrophysics, and cosmology describe how dark matter behaves on large scales and how the universe itself serves as a laboratory for studying it. There are many theoretical candidates for DM, which can be broadly categorized into particle-like and wave-like candidates. The viable candidates span an enormous range of masses, from below $10^{-22}$ eV for the lightest wave-like fields up to roughly $10^{67}$ eV (several solar masses) for compact objects, nearly 90 orders of magnitude, and no single experimental strategy is sensitive across this entire range.
 
-    TBW
+    Axions are hypothetical light particles originally proposed to explain why the strong nuclear interaction produces no observable electric dipole moment of the neutron. Axion-like particles (ALPs) have similar interactions but a less restricted relationship between their mass and interaction strengths. Both are pseudoscalars: their fields change sign under spatial reflection.
+
+    When these particles constitute sufficiently light, wave-like dark matter, many occupy each de Broglie volume and their collective field behaves as a classical wave. The field oscillates at a frequency set mainly by the particle mass. The halo's velocity spread gives the signal a finite frequency width and coherence time, so its phase remains predictable only over a limited interval.
+
+    A coupling to photons allows an axion to convert into an electromagnetic signal in an applied magnetic field. Haloscopes are detectors designed to search for this local dark matter signal: microwave cavities enhance conversion near a resonance, while resonant electrical circuits and dielectric structures address other mass ranges. Because the mass is unknown, experiments scan frequencies or use broadband measurements to cover a wider range at once.
 
     References:
+      - New experimental approaches in the search for axion-like particles: https://arxiv.org/abs/1801.08127
+      - Invisible Axion Search Methods: https://arxiv.org/abs/2003.02206
 
 
-- Category: Dark Matter - Axion-Spin Coupling
+- Category: Dark Matter - Axion-Electron Coupling
   Heatmap: Dark Matter
   Description: >-
     Dark Matter (DM) constitutes about 85\% of the matter in the universe but has not been directly observed through electromagnetic interactions. Unlike normal matter, DM does not emit, absorb, or reflect light, making it invisible to electromagnetic observations. The existence of DM is inferred from its gravitational effects on visible matter. The nature of DM is one of the most significant open questions in physics. Understanding dark matter draws on two complementary fronts: particle physics proposes candidate particles and explores their possible interactions with ordinary matter, while general relativity, astrophysics, and cosmology describe how dark matter behaves on large scales and how the universe itself serves as a laboratory for studying it. There are many theoretical candidates for DM, which can be broadly categorized into particle-like and wave-like candidates. The viable candidates span an enormous range of masses, from below $10^{-22}$ eV for the lightest wave-like fields up to roughly $10^{67}$ eV (several solar masses) for compact objects, nearly 90 orders of magnitude, and no single experimental strategy is sensitive across this entire range.
 
-    TBW
+    Axions are hypothetical light particles originally proposed to explain why the strong nuclear interaction produces no observable electric dipole moment of the neutron. Axion-like particles (ALPs) have similar interactions but a less restricted relationship between their mass and interaction strengths. Both are pseudoscalars: their fields change sign under spatial reflection.
+
+    When these particles constitute sufficiently light, wave-like dark matter, many occupy each de Broglie volume and their collective field behaves as a classical wave. The field oscillates at a frequency set mainly by the particle mass. The halo's velocity spread gives the signal a finite frequency width and coherence time, so its phase remains predictable only over a limited interval.
+
+    The axion-electron coupling acts on the intrinsic angular momentum, or spin, of an electron. Relative motion between the detector and the Galactic axion field gives an axion-wind interaction that behaves like a weak oscillating magnetic field. It can shift electron spin energies, drive spin precession, or induce transitions between spin states. Experiments use atoms with unpaired electrons or magnetic materials, tuning an applied magnetic field when a resonant response is desired. The orientation dependence and modulation as the Earth rotates provide additional checks on a candidate signal.
 
     References:
+      - Invisible Axion Search Methods: https://arxiv.org/abs/2003.02206
+      - New Observables for Direct Detection of Axion Dark Matter: https://arxiv.org/abs/1306.6088
+      - Axion Dark Matter Detection using Atomic Transitions: https://arxiv.org/abs/1409.2806
 
 
 - Category: Dark Matter - Axion-Nucleon and EDM Coupling
@@ -52,9 +65,16 @@
   Description: >-
     Dark Matter (DM) constitutes about 85\% of the matter in the universe but has not been directly observed through electromagnetic interactions. Unlike normal matter, DM does not emit, absorb, or reflect light, making it invisible to electromagnetic observations. The existence of DM is inferred from its gravitational effects on visible matter. The nature of DM is one of the most significant open questions in physics. Understanding dark matter draws on two complementary fronts: particle physics proposes candidate particles and explores their possible interactions with ordinary matter, while general relativity, astrophysics, and cosmology describe how dark matter behaves on large scales and how the universe itself serves as a laboratory for studying it. There are many theoretical candidates for DM, which can be broadly categorized into particle-like and wave-like candidates. The viable candidates span an enormous range of masses, from below $10^{-22}$ eV for the lightest wave-like fields up to roughly $10^{67}$ eV (several solar masses) for compact objects, nearly 90 orders of magnitude, and no single experimental strategy is sensitive across this entire range.
 
-    TBW
+    Axions are hypothetical light particles originally proposed to explain why the strong nuclear interaction produces no observable electric dipole moment of the neutron. Axion-like particles (ALPs) have similar interactions but a less restricted relationship between their mass and interaction strengths. Both are pseudoscalars: their fields change sign under spatial reflection.
+
+    When these particles constitute sufficiently light, wave-like dark matter, many occupy each de Broglie volume and their collective field behaves as a classical wave. The field oscillates at a frequency set mainly by the particle mass. The halo's velocity spread gives the signal a finite frequency width and coherence time, so its phase remains predictable only over a limited interval.
+
+    Protons and neutrons, collectively called nucleons, carry the nuclear spins used in these searches. Their direct coupling to the axion field produces an axion-wind signal similar to an oscillating magnetic field. An axion coupling to gluons, the carriers of the strong force, can also generate an oscillating neutron electric dipole moment (EDM) and other nuclear electric moments. An EDM describes a separation of positive and negative charge. In an electric field, the resulting nuclear moment can exert a torque on a spin. Experiments such as the Cosmic Axion Spin Precession Experiment (CASPEr) seek the associated changes in nuclear magnetization using nuclear magnetic resonance. Nuclear structure and screening by atomic electrons determine how these interactions appear in a material.
 
     References:
+      - Invisible Axion Search Methods: https://arxiv.org/abs/2003.02206
+      - New Observables for Direct Detection of Axion Dark Matter: https://arxiv.org/abs/1306.6088
+      - Cosmic Axion Spin Precession Experiment (CASPEr): https://arxiv.org/abs/1306.6089
 
 
 - Category: Dark Matter - Dark Photons and Hidden Sectors
@@ -62,29 +82,31 @@
   Description: >-
     Dark Matter (DM) constitutes about 85\% of the matter in the universe but has not been directly observed through electromagnetic interactions. Unlike normal matter, DM does not emit, absorb, or reflect light, making it invisible to electromagnetic observations. The existence of DM is inferred from its gravitational effects on visible matter. The nature of DM is one of the most significant open questions in physics. Understanding dark matter draws on two complementary fronts: particle physics proposes candidate particles and explores their possible interactions with ordinary matter, while general relativity, astrophysics, and cosmology describe how dark matter behaves on large scales and how the universe itself serves as a laboratory for studying it. There are many theoretical candidates for DM, which can be broadly categorized into particle-like and wave-like candidates. The viable candidates span an enormous range of masses, from below $10^{-22}$ eV for the lightest wave-like fields up to roughly $10^{67}$ eV (several solar masses) for compact objects, nearly 90 orders of magnitude, and no single experimental strategy is sensitive across this entire range.
 
-    TBW
+    A hidden sector is a set of hypothetical particles that interact only weakly with ordinary matter, while possibly having their own forces. A dark photon is a spin-one particle associated with an additional electromagnetic-like force. Through kinetic mixing, a small coupling between the ordinary and dark electromagnetic fields, a massive dark photon can interact weakly with electric charge. A sufficiently light and long-lived dark photon could itself constitute dark matter.
+
+    When these particles constitute sufficiently light, wave-like dark matter, many occupy each de Broglie volume and their collective field behaves as a classical wave. The field oscillates at a frequency set mainly by the particle mass. The halo's velocity spread gives the signal a finite frequency width and coherence time, so its phase remains predictable only over a limited interval.
+
+    Dark photon dark matter produces an oscillating electric force on charges in the laboratory. Searches use resonant circuits, electromagnetic cavities, or absorption in a material to detect the resulting signal. In other models, the dark photon mediates interactions between dark matter and ordinary particles. Accelerator experiments then look for its production through visible decay products or missing energy carried away by hidden particles.
 
     References:
+      - The Dark Photon: https://arxiv.org/abs/2005.01515
+      - Dark Light, Dark Matter and the Misalignment Mechanism: https://arxiv.org/abs/1105.2812
 
 
-- Category: Dark Matter - Ultralight and Scalar Dark Matter
+- Category: Dark Matter - Scalar Dark Matter
   Heatmap: Dark Matter
   Description: >-
     Dark Matter (DM) constitutes about 85\% of the matter in the universe but has not been directly observed through electromagnetic interactions. Unlike normal matter, DM does not emit, absorb, or reflect light, making it invisible to electromagnetic observations. The existence of DM is inferred from its gravitational effects on visible matter. The nature of DM is one of the most significant open questions in physics. Understanding dark matter draws on two complementary fronts: particle physics proposes candidate particles and explores their possible interactions with ordinary matter, while general relativity, astrophysics, and cosmology describe how dark matter behaves on large scales and how the universe itself serves as a laboratory for studying it. There are many theoretical candidates for DM, which can be broadly categorized into particle-like and wave-like candidates. The viable candidates span an enormous range of masses, from below $10^{-22}$ eV for the lightest wave-like fields up to roughly $10^{67}$ eV (several solar masses) for compact objects, nearly 90 orders of magnitude, and no single experimental strategy is sensitive across this entire range.
 
-    TBW
+    Scalar dark matter here means a spin-zero field that is unchanged under spatial reflection, such as a dilaton or modulus. Its couplings can make ordinary particle masses or the fine-structure constant, which sets the strength of electromagnetism, depend on the local field value.
+
+    When these particles constitute sufficiently light, wave-like dark matter, many occupy each de Broglie volume and their collective field behaves as a classical wave. The field oscillates at a frequency set mainly by the particle mass. The halo's velocity spread gives the signal a finite frequency width and coherence time, so its phase remains predictable only over a limited interval.
+
+    Periodic variations of these quantities shift atomic and molecular transition frequencies and can change equilibrium material lengths. Searches therefore compare different atomic clocks, monitor optical cavities, or look for small strains and displacements in mechanical resonators. Different transitions and materials respond differently to variations in particle masses and electromagnetic interactions, providing several complementary ways to identify the same underlying field.
 
     References:
-
-
-- Category: Dark Matter - Exotic Spin-Dependent Interactions
-  Heatmap: Dark Matter
-  Description: >-
-    Dark Matter (DM) constitutes about 85\% of the matter in the universe but has not been directly observed through electromagnetic interactions. Unlike normal matter, DM does not emit, absorb, or reflect light, making it invisible to electromagnetic observations. The existence of DM is inferred from its gravitational effects on visible matter. The nature of DM is one of the most significant open questions in physics. Understanding dark matter draws on two complementary fronts: particle physics proposes candidate particles and explores their possible interactions with ordinary matter, while general relativity, astrophysics, and cosmology describe how dark matter behaves on large scales and how the universe itself serves as a laboratory for studying it. There are many theoretical candidates for DM, which can be broadly categorized into particle-like and wave-like candidates. The viable candidates span an enormous range of masses, from below $10^{-22}$ eV for the lightest wave-like fields up to roughly $10^{67}$ eV (several solar masses) for compact objects, nearly 90 orders of magnitude, and no single experimental strategy is sensitive across this entire range.
-
-    TBW
-
-    References:
+      - Searching for dilaton dark matter with atomic clocks: https://arxiv.org/abs/1405.2925
+      - Searching for scalar dark matter with compact mechanical resonators: https://arxiv.org/abs/1910.07574
 
 
 - Category: Dark Matter - Particle-like Dark Matter
@@ -92,9 +114,15 @@
   Description: >-
     Dark Matter (DM) constitutes about 85\% of the matter in the universe but has not been directly observed through electromagnetic interactions. Unlike normal matter, DM does not emit, absorb, or reflect light, making it invisible to electromagnetic observations. The existence of DM is inferred from its gravitational effects on visible matter. The nature of DM is one of the most significant open questions in physics. Understanding dark matter draws on two complementary fronts: particle physics proposes candidate particles and explores their possible interactions with ordinary matter, while general relativity, astrophysics, and cosmology describe how dark matter behaves on large scales and how the universe itself serves as a laboratory for studying it. There are many theoretical candidates for DM, which can be broadly categorized into particle-like and wave-like candidates. The viable candidates span an enormous range of masses, from below $10^{-22}$ eV for the lightest wave-like fields up to roughly $10^{67}$ eV (several solar masses) for compact objects, nearly 90 orders of magnitude, and no single experimental strategy is sensitive across this entire range.
 
-    TBW
+    The distinction between particle-like and wave-like dark matter is controlled by the occupation number: the average number of particles in a de Broglie volume. For bosons making up the local Galactic halo, the crossover is of order $10$ eV in mass, or a few tens of eV depending on the density, velocity distribution, and wavelength convention. Well below this scale, overlapping matter waves have a large occupation number and admit a classical field description; well above it, the occupation is small and individual particles provide the natural description. This is a gradual crossover, and the detector response also depends on the interaction and measurement scale.
+
+    Particle-like dark matter is sought through individual collisions or other localized energy deposits in a detector. A familiar example is a weakly interacting massive particle (WIMP): its abundance can arise when annihilations become too slow to maintain thermal equilibrium as the early universe expands, a process called freeze-out. Direct detection experiments look for the small recoil energy transferred when a passing dark matter particle scatters from a nucleus or electron. Lighter candidates deposit less energy, motivating detectors sensitive to individual ionization electrons, faint light signals, or small amounts of heat. The expected spectrum and rate depend on the particle mass, interaction strength, target material, and Galactic velocity distribution. Indirect searches for annihilation or decay products and accelerator searches for invisible particles provide complementary tests of these models.
 
     References:
+      - Wave Dark Matter: https://arxiv.org/abs/2101.11735
+      - The Waning of the WIMP? A Review of Models, Searches, and Constraints: https://arxiv.org/abs/1703.07364
+      - Direct Detection of WIMP Dark Matter: Concepts and Status: https://arxiv.org/abs/1903.03026
+      - Direct Detection of Sub-GeV Dark Matter: https://arxiv.org/abs/1108.5383
 
 
 - Category: Data Analysis - Anomaly Detection
@@ -242,6 +270,16 @@
       - Charge shielding and quark confinement in the Schwinger model: https://doi.org/10.1016/0003-4916(75)90212-2
       - Gauge Invariance and Mass. II: https://journals.aps.org/pr/abstract/10.1103/PhysRev.128.2425
       - Selected Topics in Gauge Theories, Chapter 5: https://link.springer.com/book/10.1007/3-540-16064-7
+
+
+- Category: Fifth Forces - Exotic Spin-Dependent Interactions
+  Heatmap: Fifth Forces
+  Description: >-
+    New light particles can mediate forces whose strength depends on the orientation of electron or nuclear spins. Such interactions are often called spin-dependent fifth forces, since they would supplement the four known fundamental interactions. Depending on the coupling, a force can act between two polarized samples, between a polarized sample and an unpolarized mass, or depend on their relative motion. Its range increases as the mediator mass decreases. Experiments move a nearby source or reverse its polarization and look for a corresponding torque, energy shift, or change in spin precession. A comagnetometer compares different spin species in the same environment to help distinguish a new interaction from ordinary magnetic disturbances. These laboratory searches directly test a mediator's couplings and range.
+
+    References:
+      - Spin-Dependent Macroscopic Forces from New Particle Exchange: https://arxiv.org/abs/hep-ph/0605342
+      - Spin-dependent exotic interactions: https://arxiv.org/abs/2408.15691
 
 
 - Category: Gravitation - Gravitational Wave Detection
