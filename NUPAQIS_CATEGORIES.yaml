@@ -3,28 +3,66 @@
 # Nuclear and Particle Physics (NuPa) Categories
 # ----------------------------------------------
 
-- Category: Collider Physics - Top Quark Sector
-  Heatmap: Collider Physics
+- Category: Particle Scattering and Decays - Top Quark Sector
+  Heatmap: Particle Scattering and Decays
   Description: >-
-    TBW
+    Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
+
+    The top quark is the heaviest known elementary particle and carries spin $1/2$. It decays predominantly into a $W$ boson and a bottom quark, on a timescale shorter than that for forming ordinary hadrons. Its spin information is therefore retained in the angular distributions of its decay products. In top-antitop production, these distributions reveal both the polarization of each top, meaning its preferred spin orientation, and the correlations between the two spins. Charged leptons from the subsequent $W$ decays provide particularly sensitive spin analyzers. These measurements probe the strong and electroweak interactions responsible for production and decay, including possible new interactions. Near the production threshold, where the pair moves slowly, the attraction between top and antitop can also modify the observed distributions.
+
+    References:
+      - Top quark physics at the LHC: https://arxiv.org/abs/0805.1333
+      - A set of top quark spin correlation and polarization observables for the LHC: Standard Model predictions and new physics contributions: https://arxiv.org/abs/1508.05271
 
 
-- Category: Collider Physics - Electroweak Bosons and Higgs
-  Heatmap: Collider Physics
+- Category: Particle Scattering and Decays - Electroweak Bosons and Higgs
+  Heatmap: Particle Scattering and Decays
   Description: >-
-    TBW
+    Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
+
+    The $W$ and $Z$ bosons carry the weak interaction and have spin one, while the Higgs boson has spin zero and is associated with the field responsible for electroweak symmetry breaking. A massive spin-one boson has longitudinal and transverse polarization states, distinguished by its spin projection along its direction of motion. The relative populations of these states and their joint decay-angle distributions probe the structure of the interactions. Important processes include production and scattering of weak-boson pairs, Higgs decays to real or virtual weak bosons, and Higgs decays to tau-lepton pairs. A virtual boson has an invariant mass different from its usual physical mass. Tau leptons are heavy relatives of electrons; their decay products also carry information about their spins. Measurements of these distributions constrain the interactions of the weak bosons and the Higgs. Models with additional Higgs particles extend these studies to the interactions and symmetries of a larger scalar sector.
+
+    References:
+      - The Anatomy of Electro-Weak Symmetry Breaking. I: The Higgs boson in the Standard Model: https://arxiv.org/abs/hep-ph/0503172
+      - Polarized-boson pairs at NLO in the SMEFT: https://arxiv.org/abs/2507.21768
+      - Theory and phenomenology of two-Higgs-doublet models: https://arxiv.org/abs/1106.0034
 
 
-- Category: Collider Physics - Flavor and Hadron Spectroscopy
-  Heatmap: Collider Physics
+- Category: Particle Scattering and Decays - Quarks and Hadrons
+  Heatmap: Particle Scattering and Decays
   Description: >-
-    TBW
+    Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
+
+    Quarks occur in six types, called flavors: up, down, strange, charm, bottom, and top. Their weak interactions allow transitions between flavors, with strengths described by the Cabibbo-Kobayashi-Maskawa (CKM) matrix. Quarks also form bound states called hadrons: mesons contain a quark and an antiquark, while ordinary baryons contain three quarks. Neutral kaons and neutral $B$ mesons can oscillate into their antiparticles; their decay times and final states reveal this evolution and test symmetries relating matter and antimatter. Hadronic resonances such as the $J/\psi$ and $\Upsilon(4S)$ provide sources of particle-antiparticle pairs with well-defined production conditions. Hyperons, baryons containing strange quarks, provide a complementary spin probe: their weak decays favor particular daughter directions relative to the parent spin. Sequential decay distributions reveal baryon polarizations and correlations, and allow comparisons of particle and antiparticle decay parameters. Spin information about bottom quarks can likewise be accessed through the baryons they form.
+
+    References:
+      - The Physics of the B Factories: https://arxiv.org/abs/1406.6311
+      - Hyperon Physics at BESIII: https://arxiv.org/abs/2509.06304
+      - CKM Quark-Mixing Matrix: https://pdg.lbl.gov/2024/reviews/rpp2024-rev-ckm-matrix.pdf
 
 
-- Category: Collider Physics - Observables and Methodology
-  Heatmap: Collider Physics
+- Category: Particle Scattering and Decays - Photon and Lepton Processes
+  Heatmap: Particle Scattering and Decays
   Description: >-
-    TBW
+    Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
+
+    Photons and charged leptons provide systems in which spin and polarization can be studied through scattering, pair production, and decay. A photon has two helicity states, corresponding to circular polarizations; helicity is the spin projection along its momentum. Linear polarization can be inferred from conversion into an electron-positron pair or from Compton scattering, in which a photon scatters from an electron. Positronium, a bound electron-positron system, provides controlled two- and three-photon annihilation channels. Charged leptons carry spin $1/2$. The tau, a heavy relative of the electron, decays through the weak interaction, and its daughter directions encode its spin orientation. Reconstructing tau-pair events requires accounting for unobserved neutrinos. Angular distributions and correlations in these systems probe the structure of the electromagnetic and weak interactions across a broad range of energies.
+
+    References:
+      - Precision Tau Physics: https://arxiv.org/abs/1310.7922
+      - Potential of the J-PET detector for studies of discrete symmetries in decays of positronium atom - a purely leptonic system: https://arxiv.org/abs/1602.05226
+
+
+- Category: Particle Scattering and Decays - General Methods
+  Heatmap: Particle Scattering and Decays
+  Description: >-
+    Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
+
+    An observable is a quantity inferred from measured events, such as an angular asymmetry or a polarization coefficient. General methods relate scattering and decay amplitudes to such measurable quantities across different particle systems. Helicity amplitudes specify reactions for definite spin projections along the particle momenta; their interference can produce characteristic angular modulations. Angular distributions can then be used to reconstruct spin polarizations and correlations. This requires consistent choices of reference frame and spin axes, treatment of unresolved kinematics, and corrections for detector acceptance and backgrounds. Comparisons of different spin bases, systematic calculations of angular coefficients, and general analyses of what can be inferred from decay measurements provide tools that apply to several production and decay channels.
+
+    References:
+      - On the general theory of collisions for particles with spin: https://doi.org/10.1016/0003-4916(59)90051-X
+      - Measurement of the angular coefficients in Z-boson events using electron and muon pairs from data taken at sqrt(s)=8 TeV with the ATLAS detector: https://arxiv.org/abs/1606.00689
 
 
 - Category: Dark Matter - Axion-Photon Coupling
