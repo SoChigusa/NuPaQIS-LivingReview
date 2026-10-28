@@ -3,19 +3,19 @@
 # Nuclear and Particle Physics (NuPa) Categories
 # ----------------------------------------------
 
-- Category: Particle Scattering and Decays - Top Quark Sector
+- Category: Particle Scattering and Decays - Top Quarks
   Heatmap: Particle Scattering and Decays
   Description: >-
     Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
 
-    The top quark is the heaviest known elementary particle and carries spin $1/2$. It decays predominantly into a $W$ boson and a bottom quark, on a timescale shorter than that for forming ordinary hadrons. Its spin information is therefore retained in the angular distributions of its decay products. In top-antitop production, these distributions reveal both the polarization of each top, meaning its preferred spin orientation, and the correlations between the two spins. Charged leptons from the subsequent $W$ decays provide particularly sensitive spin analyzers. These measurements probe the strong and electroweak interactions responsible for production and decay, including possible new interactions. Near the production threshold, where the pair moves slowly, the attraction between top and antitop can also modify the observed distributions.
+    The top quark is the heaviest known elementary particle and carries spin $1/2$. It decays predominantly into a $W$ boson and a bottom quark, on a timescale shorter than that for forming ordinary hadrons, the bound states produced by the strong interaction. Its spin information can therefore be inferred from the angular distributions of its decay products without first passing through hadron formation. In top-antitop production, these distributions reveal both the polarization of each top, meaning its preferred spin orientation, and the correlations between the two spins. Charged leptons from the subsequent $W$ decays provide particularly sensitive spin analyzers. These measurements probe the strong and electroweak interactions responsible for production and decay, including possible new interactions. Near the production threshold, where the pair moves slowly, the attraction between top and antitop can also modify the observed distributions.
 
     References:
       - Top quark physics at the LHC: https://arxiv.org/abs/0805.1333
       - A set of top quark spin correlation and polarization observables for the LHC: Standard Model predictions and new physics contributions: https://arxiv.org/abs/1508.05271
 
 
-- Category: Particle Scattering and Decays - Electroweak Bosons and Higgs
+- Category: Particle Scattering and Decays - W, Z and Higgs Bosons
   Heatmap: Particle Scattering and Decays
   Description: >-
     Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
@@ -28,12 +28,12 @@
       - Theory and phenomenology of two-Higgs-doublet models: https://arxiv.org/abs/1106.0034
 
 
-- Category: Particle Scattering and Decays - Quarks and Hadrons
+- Category: Particle Scattering and Decays - Hadrons
   Heatmap: Particle Scattering and Decays
   Description: >-
     Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
 
-    Quarks occur in six types, called flavors: up, down, strange, charm, bottom, and top. Their weak interactions allow transitions between flavors, with strengths described by the Cabibbo-Kobayashi-Maskawa (CKM) matrix. Quarks also form bound states called hadrons: mesons contain a quark and an antiquark, while ordinary baryons contain three quarks. Neutral kaons and neutral $B$ mesons can oscillate into their antiparticles; their decay times and final states reveal this evolution and test symmetries relating matter and antimatter. Hadronic resonances such as the $J/\psi$ and $\Upsilon(4S)$ provide sources of particle-antiparticle pairs with well-defined production conditions. Hyperons, baryons containing strange quarks, provide a complementary spin probe: their weak decays favor particular daughter directions relative to the parent spin. Sequential decay distributions reveal baryon polarizations and correlations, and allow comparisons of particle and antiparticle decay parameters. Spin information about bottom quarks can likewise be accessed through the baryons they form.
+    The up, down, strange, charm, and bottom quarks are observed through hadrons formed by the strong interaction, in a process called hadronization. Charm and bottom quarks form hadrons before they decay through the weak interaction. Mesons contain a quark and an antiquark, while ordinary baryons contain three quarks. Quark type is called flavor, and weak interactions allow transitions between flavors, with strengths described by the Cabibbo-Kobayashi-Maskawa (CKM) matrix. Neutral kaons and neutral $B$ mesons can oscillate into their antiparticles; their decay times and final states reveal this evolution and test symmetries relating matter and antimatter. Hadronic resonances such as the $J/\psi$ and $\Upsilon(4S)$ provide sources of particle-antiparticle pairs with well-defined production conditions. Hyperons, baryons containing strange quarks, provide a complementary spin probe: their weak decays favor particular daughter directions relative to the parent spin. Sequential decay distributions reveal baryon polarizations and correlations, and allow comparisons of particle and antiparticle decay parameters. Spin information about bottom quarks can likewise be accessed through the baryons they form. Correlations between pairs of hadrons can also be used to infer the spin correlations of the light quarks that produced them. Such inferences require a description of how spin information is transferred during hadronization.
 
     References:
       - The Physics of the B Factories: https://arxiv.org/abs/1406.6311
@@ -41,16 +41,27 @@
       - CKM Quark-Mixing Matrix: https://pdg.lbl.gov/2024/reviews/rpp2024-rev-ckm-matrix.pdf
 
 
-- Category: Particle Scattering and Decays - Photon and Lepton Processes
+- Category: Particle Scattering and Decays - Charged Leptons
   Heatmap: Particle Scattering and Decays
   Description: >-
     Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
 
-    Photons and charged leptons provide systems in which spin and polarization can be studied through scattering, pair production, and decay. A photon has two helicity states, corresponding to circular polarizations; helicity is the spin projection along its momentum. Linear polarization can be inferred from conversion into an electron-positron pair or from Compton scattering, in which a photon scatters from an electron. Positronium, a bound electron-positron system, provides controlled two- and three-photon annihilation channels. Charged leptons carry spin $1/2$. The tau, a heavy relative of the electron, decays through the weak interaction, and its daughter directions encode its spin orientation. Reconstructing tau-pair events requires accounting for unobserved neutrinos. Angular distributions and correlations in these systems probe the structure of the electromagnetic and weak interactions across a broad range of energies.
+    Charged leptons are the electron and its heavier relatives, the muon and tau. All carry spin $1/2$ and interact through the electromagnetic and weak forces. In lepton-pair production, the spin orientations and their correlations depend on the production mechanism and collision energy. The tau decays through the weak interaction before reaching a detector; the directions and energies of its decay products reveal its spin orientation. Reconstructing tau-pair events requires accounting for unobserved neutrinos. Measurements of production rates and decay distributions probe the interactions of charged leptons and constrain possible departures from the Standard Model.
 
     References:
       - Precision Tau Physics: https://arxiv.org/abs/1310.7922
-      - Potential of the J-PET detector for studies of discrete symmetries in decays of positronium atom - a purely leptonic system: https://arxiv.org/abs/1602.05226
+
+
+- Category: Particle Scattering and Decays - Photons
+  Heatmap: Particle Scattering and Decays
+  Description: >-
+    Particle scattering and decays probe the interactions and internal properties of elementary particles and hadrons. The species, momenta, and angular distributions of the outgoing particles reveal how a reaction proceeds. Measurements of rates, spin polarization, and correlations test the Standard Model and constrain possible new interactions. These studies range from high-energy beam collisions to decays and photon scattering at lower energies.
+
+    Photons are the massless carriers of the electromagnetic interaction. A photon has two helicity states, corresponding to circular polarizations; helicity is the spin projection along its momentum. Linear polarization affects the angular distributions in conversion into an electron-positron pair and in Compton scattering from electrons. These processes allow photon polarization to be inferred from measured particle directions. Positronium, a bound electron-positron system, provides two- and three-photon annihilation channels whose polarization correlations depend on the initial spin state. Studies range from annihilation photons and low-energy scattering to photon-pair production and polarimetry at high-energy colliders, probing the structure of electromagnetic interactions.
+
+    References:
+      - Über die Streuung von Strahlung durch freie Elektronen nach der neuen relativistischen Quantendynamik von Dirac: https://doi.org/10.1007/BF01366453
+      - Three-Photon Annihilation of an Electron-Positron Pair: https://doi.org/10.1103/PhysRev.75.1696
 
 
 - Category: Particle Scattering and Decays - General Methods

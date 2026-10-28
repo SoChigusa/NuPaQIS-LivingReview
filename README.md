@@ -3,7 +3,11 @@
 [![BY_QIS](https://img.shields.io/badge/Link_to-Living_Review_by_Quantum_Information_Science-9BC53D)](/BY_QIS#a-living-review-of-quantum-information-science-in-nuclear-and-particle-physics-organized-by-qis-topics) 	
 [![NUPA_TO_MAIN](https://img.shields.io/badge/Link_to-Living_Review_Home_-FDE74C)](/../../#readme) 
 
-##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Top Quark Sector}}$
+**Classification guide.** Each paper has one primary category, chosen from its central physical system or contribution. W, Z and Higgs Bosons covers weak-boson states and Higgs/scalar-sector dynamics. Studies of tau-pair or photon-polarization states belong primarily to Charged Leptons or Photons, including states produced in Higgs decays. Top Quarks covers top-spin and decay studies, where the top typically decays before ordinary hadron formation. Hadrons covers mesons and baryons, as well as spin information about lighter quarks accessed through the hadrons they form.
+
+Crosslists identify additional systems or interactions that are substantively analyzed. Incoming beams, exchanged particles, decay analyzers, detector conversions and collider names alone do not determine membership. Mixed systems can legitimately have several categories. General Methods contains frameworks, foundational inference studies and surveys across systems; reviews focused on one system stay with that system.
+
+##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Top Quarks}}$
 
 
 
@@ -157,6 +161,12 @@
 + <strong>Posted on <a href="https://arxiv.org/abs/2602.23426">arXiv:2602.23426</a>:</strong> 26 February 2026 
 + <strong>Published in <a href="https://doi.org/10.1007/JHEP06(2026)139">JHEP 06 (2026) 139</a>:</strong> 12 June 2026</details>
 
+<details>
+<summary> (2026) <b>Quantum Information in High-Energy Physics: a top subject</b> [<a href="https://arxiv.org/abs/2610.00467">arXiv</a>] [<a href="https://inspirehep.net/literature/3210446">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1455823"> Yoav Afik</a>, <a href="https://inspirehep.net/authors/1869844"> Juan Ramón Muñoz de Nova</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2610.00467">arXiv:2610.00467</a>:</strong> 30 September 2026</details>
+
 
 
 ###  $\textbf{{\color{#5BC0EB}Quantum Information - Magic and Nonstabilizerness}}$
@@ -216,12 +226,6 @@
 + <strong>Posted on <a href="https://arxiv.org/abs/2409.08918">arXiv:2409.08918</a>:</strong> 13 September 2024 
 + <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.110.055025">Phys. Rev. D 110, 055025 (2024)</a>:</strong> 01 September 2024</details>
 
-<details>
-<summary> (2026) <b>Odd Physics Off the Diagonal: Constraining CP-violating SMEFT with Quantum Tomography</b> [<a href="https://arxiv.org/abs/2604.21857">arXiv</a>] [<a href="https://inspirehep.net/literature/3148517">INSPIRE</a>] <code>Expand</code><br> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/3148521"> Avalon Roberts</a>, <a href="https://inspirehep.net/authors/2671049"> Patrick Dougan</a>, <a href="https://inspirehep.net/authors/995131"> Alexander Oh</a>, <a href="https://inspirehep.net/authors/1118663"> Savanna Shaw</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2604.21857">arXiv:2604.21857</a>:</strong> 23 April 2026</details>
-
 
 
 ###  $\textbf{{\color{#5BC0EB}Crosslists}}$
@@ -241,13 +245,6 @@
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1231884"> J.A. Aguilar-Saavedra</a>, <a href="https://inspirehep.net/authors/1014357"> J.A. Casas</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2401.06854">arXiv:2401.06854</a>:</strong> 12 January 2024 
 + <strong>Published in <a href="https://doi.org/10.1103/PhysRevLett.133.111801">Phys.Rev.Lett.</a>:</strong> 10 September 2024</details>
-
-<details>
-<summary> (2025) <b>Entanglement and Bell nonlocality with bottom-quark pairs at hadron colliders</b> [<a href="https://arxiv.org/abs/2406.04402">arXiv</a>] [<a href="https://doi.org/10.1103/fhkc-kfhr">DOI</a>] [<a href="https://inspirehep.net/literature/2796017">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1455823"> Yoav Afik</a>, <a href="https://inspirehep.net/authors/1037225"> Yevgeny Kats</a>, <a href="https://inspirehep.net/authors/1869844"> Juan Ramón Muñoz de Nova</a>, <a href="https://inspirehep.net/authors/988184"> Abner Soffer</a>, <a href="https://inspirehep.net/authors/2796525"> David Uzan</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2406.04402">arXiv:2406.04402</a>:</strong> 13 June 2025 
-+ <strong>Published in <a href="https://doi.org/10.1103/fhkc-kfhr">Phys. Rev. D 111, L111902 (2025)</a>:</strong> 01 June 2025</details>
 
 <details>
 <summary> (2025) <b>Quantum Information meets High-Energy Physics: Input to the update of the European Strategy for Particle Physics</b> [<a href="https://arxiv.org/abs/2504.00086">arXiv</a>] [<a href="https://doi.org/10.1140/epjp/s13360-025-06752-9">DOI</a>] [<a href="https://inspirehep.net/literature/2906652">INSPIRE</a>] <code>Expand</code> </summary>
@@ -278,33 +275,40 @@
 + <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.111.033004">Phys.Rev.D</a>:</strong> 01 February 2025</details>
 
 <details>
-<summary> (2026) <b>Quantum Information in High-Energy Physics: a top subject</b> [<a href="https://arxiv.org/abs/2610.00467">arXiv</a>] [<a href="https://inspirehep.net/literature/3210446">INSPIRE</a>] <code>Expand</code><br> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1455823"> Yoav Afik</a>, <a href="https://inspirehep.net/authors/1869844"> Juan Ramón Muñoz de Nova</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2610.00467">arXiv:2610.00467</a>:</strong> 30 September 2026</details>
-
-<details>
 <summary> (2022) <b>Quantum state tomography, entanglement detection and Bell violation prospects in weak decays of massive particles</b> [<a href="https://arxiv.org/abs/2209.13990">arXiv</a>] [<a href="https://doi.org/10.1007/JHEP05(2023)020">DOI</a>] [<a href="https://inspirehep.net/literature/2157995">INSPIRE</a>] <code>Expand</code> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2789214"> Rachel Ashby-Pickering</a>, <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/2157997"> Agnieszka Wierzchucka</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2209.13990">arXiv:2209.13990</a>:</strong> 28 September 2022 
 + <strong>Published in <a href="https://doi.org/10.1007/JHEP05(2023)020">JHEP</a>:</strong> 02 May 2023</details>
 
+<details>
+<summary> (2026) <b>Entanglement Maximization and Symmetry Selection in Composite Higgs Models</b> [<a href="https://arxiv.org/abs/2605.17434">arXiv</a>] [<a href="https://inspirehep.net/literature/3157227">INSPIRE</a>] <code>Expand</code><br> </summary>
 
-##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Electroweak Bosons and Higgs}}$
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1910240"> Cihang Li</a>, <a href="https://inspirehep.net/authors/1064170"> Teng Ma</a>, <a href="https://inspirehep.net/authors/1019902"> Jing Shu</a>, <a href="https://inspirehep.net/authors/1972397"> Mingdi Zhu</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2605.17434">arXiv:2605.17434</a>:</strong> 17 May 2026</details>
+
+<details>
+<summary> (2024) <b>Quantum entanglement and Bell inequality violation at colliders</b> [<a href="https://arxiv.org/abs/2402.07972">arXiv</a>] [<a href="https://doi.org/10.1016/j.ppnp.2024.104134">DOI</a>] [<a href="https://inspirehep.net/literature/2757981">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2402.07972">arXiv:2402.07972</a>:</strong> 12 February 2024 
++ <strong>Published in <a href="https://doi.org/10.1016/j.ppnp.2024.104134">Prog.Part.Nucl.Phys.</a>:</strong> 19 July 2024</details>
+
+<details>
+<summary> (2025) <b>Colliders are not Testing Locality via Bell's Inequality nor Providing an Unconditional Proof of Entanglement</b> [<a href="https://arxiv.org/abs/2507.15949">arXiv</a>] [<a href="https://doi.org/10.1007/JHEP08(2026)067">DOI</a>] [<a href="https://inspirehep.net/literature/2952954">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1019047"> Steven A. Abel</a>, <a href="https://inspirehep.net/authors/1011410"> Herbi K. Dreiner</a>, <a href="https://inspirehep.net/authors/1751817"> Rhitaja Sengupta</a>, <a href="https://inspirehep.net/authors/1064818"> Lorenzo Ubaldi</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2507.15949">arXiv:2507.15949</a>:</strong> 21 July 2025 
++ <strong>Published in <a href="https://doi.org/10.1007/JHEP08(2026)067">JHEP</a>:</strong> 07 August 2026</details>
+
+
+##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - W, Z and Higgs Bosons}}$
 
 
 
 ###  $\textbf{{\color{#5BC0EB}Quantum Information - Entanglement and Bell Nonlocality}}$
 
 
-
-<details>
-<summary> (2017) <b>Maximal Entanglement in High Energy Physics</b> [<a href="https://arxiv.org/abs/1703.02989">arXiv</a>] [<a href="https://doi.org/10.21468/SciPostPhys.3.5.036">DOI</a>] [<a href="https://inspirehep.net/literature/1516805">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1709061"> Alba Cervera-Lierta</a>, <a href="https://inspirehep.net/authors/1000999"> José I. Latorre</a>, <a href="https://inspirehep.net/authors/1019897"> Juan Rojo</a>, <a href="https://inspirehep.net/authors/1337744"> Luca Rottoli</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/1703.02989">arXiv:1703.02989</a>:</strong> 08 March 2017 
-+ <strong>Published in <a href="https://doi.org/10.21468/SciPostPhys.3.5.036">SciPost Phys. 3, 036 (2017)</a>:</strong> 24 November 2017</details>
 
 <details>
 <summary> (2021) <b>Testing Bell inequalities in Higgs boson decays</b> [<a href="https://arxiv.org/abs/2106.01377">arXiv</a>] [<a href="https://doi.org/10.1016/j.physletb.2021.136866">DOI</a>] [<a href="https://inspirehep.net/literature/1866945">INSPIRE</a>] <code>Expand</code> </summary>
@@ -390,20 +394,6 @@
 + <strong>Published in <a href="https://doi.org/10.1140/epjp/s13360-023-04784-7">Eur.Phys.J.Plus</a>:</strong> 29 December 2023</details>
 
 <details>
-<summary> (2023) <b>Testing Bell inequality through $h\to\tau\tau$ at CEPC</b> [<a href="https://arxiv.org/abs/2309.08103">arXiv</a>] [<a href="https://doi.org/10.1088/1674-1137/ad62d8">DOI</a>] [<a href="https://inspirehep.net/literature/2698185">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1444931"> Kai Ma</a>, <a href="https://inspirehep.net/authors/1600487"> Tong Li</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2309.08103">arXiv:2309.08103</a>:</strong> 14 September 2023 
-+ <strong>Published in <a href="https://doi.org/10.1088/1674-1137/ad62d8">Chin.Phys.C</a>:</strong> 2024</details>
-
-<details>
-<summary> (2024) <b>Quantum tomography with $\tau$ leptons at the FCC-ee</b> [<a href="https://arxiv.org/abs/2405.09201">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.110.076004">DOI</a>] [<a href="https://inspirehep.net/literature/2787034">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> M. Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1273305"> L. Marzola</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2405.09201">arXiv:2405.09201</a>:</strong> 15 May 2024 
-+ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.110.076004">Phys.Rev.D</a>:</strong> 01 October 2024</details>
-
-<details>
 <summary> (2024) <b>Testing Bell inequalities and probing quantum entanglement at CEPC</b> [<a href="https://arxiv.org/abs/2410.17025">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.111.036008">DOI</a>] [<a href="https://inspirehep.net/literature/2841887">INSPIRE</a>] <code>Expand</code> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1945932"> Youpeng Wu</a>, <a href="https://inspirehep.net/authors/2552171"> Ruobing Jiang</a>, <a href="https://inspirehep.net/authors/1921611"> Alim Ruzi</a>, <a href="https://inspirehep.net/authors/1017488"> Yong Ban</a>, <a href="https://inspirehep.net/authors/1927063"> Xueqing Yan</a>, <a href="https://inspirehep.net/authors/1074984"> Qiang Li</a>
@@ -457,12 +447,6 @@
 + <strong>Published in <a href="https://doi.org/10.1103/y1nh-1b82">Phys. Rev. Lett. 137 (2026) 111804</a>:</strong> 11 September 2026</details>
 
 <details>
-<summary> (2026) <b>Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\rightarrowτ^+τ^-$ Decays</b> [<a href="https://arxiv.org/abs/2603.28868">arXiv</a>] [<a href="https://inspirehep.net/literature/3137624">INSPIRE</a>] <code>Expand</code><br> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1071846"> Lawrence Lee</a>, <a href="https://inspirehep.net/authors/2690094"> John Lawless</a>, <a href="https://inspirehep.net/authors/2830295"> Caroline Riggall</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2603.28868">arXiv:2603.28868</a>:</strong> 30 March 2026</details>
-
-<details>
 <summary> (2026) <b>Entanglement Maximization and Symmetry Selection in Composite Higgs Models</b> [<a href="https://arxiv.org/abs/2605.17434">arXiv</a>] [<a href="https://inspirehep.net/literature/3157227">INSPIRE</a>] <code>Expand</code><br> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1910240"> Cihang Li</a>, <a href="https://inspirehep.net/authors/1064170"> Teng Ma</a>, <a href="https://inspirehep.net/authors/1019902"> Jing Shu</a>, <a href="https://inspirehep.net/authors/1972397"> Mingdi Zhu</a>
@@ -492,6 +476,12 @@
 ###  $\textbf{{\color{#5BC0EB}Quantum Information - State Tomography and Characterization}}$
 
 
+
+<details>
+<summary> (2026) <b>Odd Physics Off the Diagonal: Constraining CP-violating SMEFT with Quantum Tomography</b> [<a href="https://arxiv.org/abs/2604.21857">arXiv</a>] [<a href="https://inspirehep.net/literature/3148517">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/3148521"> Avalon Roberts</a>, <a href="https://inspirehep.net/authors/2671049"> Patrick Dougan</a>, <a href="https://inspirehep.net/authors/995131"> Alexander Oh</a>, <a href="https://inspirehep.net/authors/1118663"> Savanna Shaw</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2604.21857">arXiv:2604.21857</a>:</strong> 23 April 2026</details>
 
 <details>
 <summary> (2025) <b>Z-boson quantum tomography at next-to-leading order</b> [<a href="https://arxiv.org/abs/2509.20456">arXiv</a>] [<a href="https://doi.org/10.1007/JHEP02(2026)056">DOI</a>] [<a href="https://inspirehep.net/literature/2973358">INSPIRE</a>] <code>Expand</code> </summary>
@@ -526,10 +516,31 @@
 + <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-023-11307-2">Eur.Phys.J.C</a>:</strong> 19 February 2023</details>
 
 <details>
+<summary> (2024) <b>Full quantum tomography of top quark decays</b> [<a href="https://arxiv.org/abs/2402.14725">arXiv</a>] [<a href="https://doi.org/10.1016/j.physletb.2024.138849">DOI</a>] [<a href="https://inspirehep.net/literature/2760765">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1231884"> J.A. Aguilar-Saavedra</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2402.14725">arXiv:2402.14725</a>:</strong> 22 February 2024 
++ <strong>Published in <a href="https://doi.org/10.1016/j.physletb.2024.138849">Phys.Lett.B</a>:</strong> 04 July 2024</details>
+
+<details>
 <summary> (2024) <b>On bipartite and tripartite entanglement at present and future particle colliders</b> [<a href="https://arxiv.org/abs/2404.03292">arXiv</a>] [<a href="https://inspirehep.net/literature/2774083">INSPIRE</a>] <code>Expand</code><br> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2652568"> Amir Subba</a>, <a href="https://inspirehep.net/authors/1631085"> Rafiqul Rahaman</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2404.03292">arXiv:2404.03292</a>:</strong> 04 April 2024</details>
+
+<details>
+<summary> (2023) <b>Post-decay quantum entanglement in top pair production</b> [<a href="https://arxiv.org/abs/2307.06991">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.108.076025">DOI</a>] [<a href="https://inspirehep.net/literature/2677292">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1231884"> J.A. Aguilar-Saavedra</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2307.06991">arXiv:2307.06991</a>:</strong> 13 July 2023 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.108.076025">Phys.Rev.D</a>:</strong> 01 October 2023</details>
+
+<details>
+<summary> (2024) <b>Entanglement autodistillation from particle decays</b> [<a href="https://arxiv.org/abs/2401.06854">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevLett.133.111801">DOI</a>] [<a href="https://inspirehep.net/literature/2747189">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1231884"> J.A. Aguilar-Saavedra</a>, <a href="https://inspirehep.net/authors/1014357"> J.A. Casas</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2401.06854">arXiv:2401.06854</a>:</strong> 12 January 2024 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevLett.133.111801">Phys.Rev.Lett.</a>:</strong> 10 September 2024</details>
 
 <details>
 <summary> (2025) <b>Quantum Information meets High-Energy Physics: Input to the update of the European Strategy for Particle Physics</b> [<a href="https://arxiv.org/abs/2504.00086">arXiv</a>] [<a href="https://doi.org/10.1140/epjp/s13360-025-06752-9">DOI</a>] [<a href="https://inspirehep.net/literature/2906652">INSPIRE</a>] <code>Expand</code> </summary>
@@ -560,6 +571,26 @@
 + <strong>Published in <a href="https://doi.org/10.1007/JHEP05(2023)020">JHEP</a>:</strong> 02 May 2023</details>
 
 <details>
+<summary> (2017) <b>Maximal Entanglement in High Energy Physics</b> [<a href="https://arxiv.org/abs/1703.02989">arXiv</a>] [<a href="https://doi.org/10.21468/SciPostPhys.3.5.036">DOI</a>] [<a href="https://inspirehep.net/literature/1516805">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1709061"> Alba Cervera-Lierta</a>, <a href="https://inspirehep.net/authors/1000999"> José I. Latorre</a>, <a href="https://inspirehep.net/authors/1019897"> Juan Rojo</a>, <a href="https://inspirehep.net/authors/1337744"> Luca Rottoli</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/1703.02989">arXiv:1703.02989</a>:</strong> 08 March 2017 
++ <strong>Published in <a href="https://doi.org/10.21468/SciPostPhys.3.5.036">SciPost Phys. 3, 036 (2017)</a>:</strong> 24 November 2017</details>
+
+<details>
+<summary> (2023) <b>Testing Bell inequality through $h\to\tau\tau$ at CEPC</b> [<a href="https://arxiv.org/abs/2309.08103">arXiv</a>] [<a href="https://doi.org/10.1088/1674-1137/ad62d8">DOI</a>] [<a href="https://inspirehep.net/literature/2698185">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1444931"> Kai Ma</a>, <a href="https://inspirehep.net/authors/1600487"> Tong Li</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2309.08103">arXiv:2309.08103</a>:</strong> 14 September 2023 
++ <strong>Published in <a href="https://doi.org/10.1088/1674-1137/ad62d8">Chin.Phys.C</a>:</strong> 2024</details>
+
+<details>
+<summary> (2026) <b>Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\rightarrowτ^+τ^-$ Decays</b> [<a href="https://arxiv.org/abs/2603.28868">arXiv</a>] [<a href="https://inspirehep.net/literature/3137624">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1071846"> Lawrence Lee</a>, <a href="https://inspirehep.net/authors/2690094"> John Lawless</a>, <a href="https://inspirehep.net/authors/2830295"> Caroline Riggall</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2603.28868">arXiv:2603.28868</a>:</strong> 30 March 2026</details>
+
+<details>
 <summary> (2026) <b>SMEFT Constraints via Quantum Entanglement in Portal-Mediated Scattering</b> [<a href="https://arxiv.org/abs/2610.09751">arXiv</a>] [<a href="https://inspirehep.net/literature/3212551">INSPIRE</a>] <code>Expand</code><br> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1963346"> Shilpa Jangid</a>, <a href="https://inspirehep.net/authors/1045126"> Hiroshi Okada</a>
@@ -571,13 +602,6 @@
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2402.07972">arXiv:2402.07972</a>:</strong> 12 February 2024 
 + <strong>Published in <a href="https://doi.org/10.1016/j.ppnp.2024.104134">Prog.Part.Nucl.Phys.</a>:</strong> 19 July 2024</details>
-
-<details>
-<summary> (2024) <b>Flavor Patterns of Fundamental Particles from Quantum Entanglement?</b> [<a href="https://arxiv.org/abs/2410.23343">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.111.056021">DOI</a>] [<a href="https://inspirehep.net/literature/2844264">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1054400"> Jesse Thaler</a>, <a href="https://inspirehep.net/authors/1778841"> Sokratis Trifinopoulos</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2410.23343">arXiv:2410.23343</a>:</strong> 30 October 2024 
-+ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.111.056021">Phys.Rev.D</a>:</strong> 01 March 2025</details>
 
 <details>
 <summary> (2025) <b>Colliders are not Testing Locality via Bell's Inequality nor Providing an Unconditional Proof of Entanglement</b> [<a href="https://arxiv.org/abs/2507.15949">arXiv</a>] [<a href="https://doi.org/10.1007/JHEP08(2026)067">DOI</a>] [<a href="https://inspirehep.net/literature/2952954">INSPIRE</a>] <code>Expand</code> </summary>
@@ -600,14 +624,27 @@
 + <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-017-5455-8">Eur.Phys.J.C</a>:</strong> 30 December 2017</details>
 
 <details>
-<summary> (2026) <b>Experimental aspects of the Quantum Tomography of tau lepton pairs at a Higgs factory collider</b> [<a href="https://arxiv.org/abs/2603.12609">arXiv</a>] [<a href="https://doi.org/10.1140/epjc/s10052-026-15804-y">DOI</a>] [<a href="https://inspirehep.net/literature/3129062">INSPIRE</a>] <code>Expand</code> </summary>
+<summary> (2024) <b>Quantum tomography with $\tau$ leptons at the FCC-ee</b> [<a href="https://arxiv.org/abs/2405.09201">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.110.076004">DOI</a>] [<a href="https://inspirehep.net/literature/2787034">INSPIRE</a>] <code>Expand</code> </summary>
 
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1055508"> Daniel Jeans</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2603.12609">arXiv:2603.12609</a>:</strong> 13 March 2026 
-+ <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-026-15804-y">Eur.Phys.J.C</a>:</strong> 19 May 2026</details>
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> M. Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1273305"> L. Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2405.09201">arXiv:2405.09201</a>:</strong> 15 May 2024 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.110.076004">Phys.Rev.D</a>:</strong> 01 October 2024</details>
+
+<details>
+<summary> (2022) <b>A General Analysis for Observing Quantum Interference at Colliders</b> [<a href="https://arxiv.org/abs/2201.03159">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.105.096012">DOI</a>] [<a href="https://inspirehep.net/literature/2006954">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1044762"> Andrew J. Larkoski</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2201.03159">arXiv:2201.03159</a>:</strong> 09 January 2022 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.105.096012">Phys.Rev.D</a>:</strong> 01 May 2022</details>
+
+<details>
+<summary> (2019) <b>Quantum Tomography Measures Entanglement in Collider Reactions</b> [<a href="https://arxiv.org/abs/1910.06311">arXiv</a>] [<a href="https://inspirehep.net/literature/1759762">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2135256"> John C. Martens</a>, <a href="https://inspirehep.net/authors/992371"> John P. Ralston</a>, <a href="https://inspirehep.net/authors/1046703"> Daniel Tapia Takaki</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/1910.06311">arXiv:1910.06311</a>:</strong> 14 October 2019</details>
 
 
-##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Quarks and Hadrons}}$
+##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Hadrons}}$
 
 
 
@@ -621,13 +658,6 @@
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1455823"> Yoav Afik</a>, <a href="https://inspirehep.net/authors/1037225"> Yevgeny Kats</a>, <a href="https://inspirehep.net/authors/1869844"> Juan Ramón Muñoz de Nova</a>, <a href="https://inspirehep.net/authors/988184"> Abner Soffer</a>, <a href="https://inspirehep.net/authors/2796525"> David Uzan</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2406.04402">arXiv:2406.04402</a>:</strong> 13 June 2025 
 + <strong>Published in <a href="https://doi.org/10.1103/fhkc-kfhr">Phys. Rev. D 111, L111902 (2025)</a>:</strong> 01 June 2025</details>
-
-<details>
-<summary> (2024) <b>Flavor Patterns of Fundamental Particles from Quantum Entanglement?</b> [<a href="https://arxiv.org/abs/2410.23343">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.111.056021">DOI</a>] [<a href="https://inspirehep.net/literature/2844264">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1054400"> Jesse Thaler</a>, <a href="https://inspirehep.net/authors/1778841"> Sokratis Trifinopoulos</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2410.23343">arXiv:2410.23343</a>:</strong> 30 October 2024 
-+ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.111.056021">Phys.Rev.D</a>:</strong> 01 March 2025</details>
 
 <details>
 <summary> (2018) <b>Polarization and Entanglement in Baryon-Antibaryon Pair Production in Electron-Positron Annihilation</b> [<a href="https://arxiv.org/abs/1808.08917">arXiv</a>] [<a href="https://doi.org/10.1038/s41567-019-0494-8">DOI</a>] [<a href="https://inspirehep.net/literature/1691850">INSPIRE</a>] <code>Expand</code> </summary>
@@ -763,13 +793,6 @@
 + <strong>Published in <a href="https://doi.org/10.1016/j.physleta.2006.04.102">Phys.Lett.A</a>:</strong> 2006</details>
 
 <details>
-<summary> (2006) <b>An open--quantum--system formulation of particle decay</b> [<a href="https://arxiv.org/abs/quant-ph/0602116">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevA.73.054101">DOI</a>] [<a href="https://inspirehep.net/literature/729754">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1016532"> Reinhold A. Bertlmann</a>, <a href="https://inspirehep.net/authors/1007515"> Walter Grimus</a>, <a href="https://inspirehep.net/authors/1006055"> Beatrix C. Hiesmayr</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/quant-ph/0602116">arXiv:quant-ph/0602116</a>:</strong> February 2006 
-+ <strong>Published in <a href="https://doi.org/10.1103/PhysRevA.73.054101">Phys.Rev.A</a>:</strong> 2006</details>
-
-<details>
 <summary> (2007) <b>Measurement of EPR-type flavour entanglement in Upsilon(4S)->B0 B0bar decays</b> [<a href="https://arxiv.org/abs/quant-ph/0702267">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevLett.99.131802">DOI</a>] [<a href="https://inspirehep.net/literature/745605">INSPIRE</a>] <code>Expand</code> </summary>
 
 + <strong>Authors:</strong> Belle Collaboration
@@ -855,20 +878,74 @@
 
 
 <details>
-<summary> (2022) <b>Constraining new physics in entangled two-qubit systems: top-quark, tau-lepton and photon pairs</b> [<a href="https://arxiv.org/abs/2208.11723">arXiv</a>] [<a href="https://doi.org/10.1140/epjc/s10052-023-11307-2">DOI</a>] [<a href="https://inspirehep.net/literature/2141744">INSPIRE</a>] <code>Expand</code> </summary>
+<summary> (2024) <b>Full quantum tomography of top quark decays</b> [<a href="https://arxiv.org/abs/2402.14725">arXiv</a>] [<a href="https://doi.org/10.1016/j.physletb.2024.138849">DOI</a>] [<a href="https://inspirehep.net/literature/2760765">INSPIRE</a>] <code>Expand</code> </summary>
 
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2208.11723">arXiv:2208.11723</a>:</strong> 24 August 2022 
-+ <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-023-11307-2">Eur.Phys.J.C</a>:</strong> 19 February 2023</details>
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1231884"> J.A. Aguilar-Saavedra</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2402.14725">arXiv:2402.14725</a>:</strong> 22 February 2024 
++ <strong>Published in <a href="https://doi.org/10.1016/j.physletb.2024.138849">Phys.Lett.B</a>:</strong> 04 July 2024</details>
+
+<details>
+<summary> (2025) <b>Quantum Information meets High-Energy Physics: Input to the update of the European Strategy for Particle Physics</b> [<a href="https://arxiv.org/abs/2504.00086">arXiv</a>] [<a href="https://doi.org/10.1140/epjp/s13360-025-06752-9">DOI</a>] [<a href="https://inspirehep.net/literature/2906652">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1455823"> Yoav Afik</a>, <a href="https://inspirehep.net/authors/1334857"> Federica Fabbri</a>, <a href="https://inspirehep.net/authors/1061156"> Matthew Low</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>, <a href="https://inspirehep.net/authors/1231884"> Juan Antonio Aguilar-Saavedra</a>, <a href="https://inspirehep.net/authors/1954648"> Mohammad Mahdi Altakach</a>, <a href="https://inspirehep.net/authors/1091378"> Nedaa Alexandra Asbah</a>, <a href="https://inspirehep.net/authors/1054212"> Yang Bai</a>, <a href="https://inspirehep.net/authors/1967235"> Hannah Banks</a>, <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/2032491"> Alexander Bernal</a>, <a href="https://inspirehep.net/authors/1015202"> Thomas E. Browder</a>, <a href="https://inspirehep.net/authors/1904170"> Paweł Caban</a>, <a href="https://inspirehep.net/authors/1014357"> J. Alberto Casas</a>, <a href="https://inspirehep.net/authors/2620041"> Kun Cheng</a>, <a href="https://inspirehep.net/authors/1012113"> Frédéric Déliot</a>, <a href="https://inspirehep.net/authors/1012064"> Regina Demina</a>, <a href="https://inspirehep.net/authors/1011596"> Antonio Di Domenico</a>, <a href="https://inspirehep.net/authors/1287212"> Michał Eckstein</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1024288"> Benjamin Fuks</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>, <a href="https://inspirehep.net/authors/1078269"> Dorival Gonçalves</a>, <a href="https://inspirehep.net/authors/2050935"> Radosław Grabarczyk</a>, <a href="https://inspirehep.net/authors/1990556"> Michele Grossi</a>, <a href="https://inspirehep.net/authors/1006825"> Tao Han</a>, <a href="https://inspirehep.net/authors/1057163"> Timothy J. Hobbs</a>, <a href="https://inspirehep.net/authors/1905321"> Paweł Horodecki</a>, <a href="https://inspirehep.net/authors/1071838"> James Howarth</a>, <a href="https://inspirehep.net/authors/1028683"> Shih-Chieh Hsu</a>, <a href="https://inspirehep.net/authors/1269829"> Stephen Jiggins</a>, <a href="https://inspirehep.net/authors/1861254"> Eleanor Jones</a>, <a href="https://inspirehep.net/authors/1032452"> Andreas W. Jung</a>, <a href="https://inspirehep.net/authors/1071843"> Andrea Helen Knue</a>, <a href="https://inspirehep.net/authors/1885043"> Steffen Korn</a>, <a href="https://inspirehep.net/authors/1001277"> Theodota Lagouri</a>, <a href="https://inspirehep.net/authors/1915298"> Priyanka Lamba</a>, <a href="https://inspirehep.net/authors/1949269"> Gabriel T. Landi</a>, <a href="https://inspirehep.net/authors/1057147"> Haifeng Li</a>, <a href="https://inspirehep.net/authors/2140295"> Qiang Li</a>, <a href="https://inspirehep.net/authors/999724"> Ian Low</a>, <a href="https://inspirehep.net/authors/999053"> Fabio Maltoni</a>, <a href="https://inspirehep.net/authors/1071859"> Josh McFayden</a>, <a href="https://inspirehep.net/authors/1751811"> Navin McGinnis</a>, <a href="https://inspirehep.net/authors/1657037"> Roberto A. Morales</a>, <a href="https://inspirehep.net/authors/996862"> Jesús M. Moreno</a>, <a href="https://inspirehep.net/authors/1869844"> Juan Ramón Muñoz de Nova</a>, <a href="https://inspirehep.net/authors/1414306"> Giulia Negro</a>, <a href="https://inspirehep.net/authors/1274353"> Davide Pagani</a>, <a href="https://inspirehep.net/authors/1635385"> Giovanni Pelliccioli</a>, <a href="https://inspirehep.net/authors/1066609"> Michele Pinamonti</a>, <a href="https://inspirehep.net/authors/2654729"> Laura Pintucci</a>, <a href="https://inspirehep.net/authors/1495662"> Baptiste Ravina</a>, <a href="https://inspirehep.net/authors/1921611"> Alim Ruzi</a>, <a href="https://inspirehep.net/authors/1058900"> Kazuki Sakurai</a>, <a href="https://inspirehep.net/authors/2013296"> Ethan Simpson</a>, <a href="https://inspirehep.net/authors/988532"> Maximiliano Sioli</a>, <a href="https://inspirehep.net/authors/987285"> Shufang Su</a>, <a href="https://inspirehep.net/authors/1778841"> Sokratis Trifinopoulos</a>, <a href="https://inspirehep.net/authors/1020433"> Sven E. Vahsen</a>, <a href="https://inspirehep.net/authors/1028732"> Sofia Vallecorsa</a>, <a href="https://inspirehep.net/authors/984708"> Alessandro Vicini</a>, <a href="https://inspirehep.net/authors/1020538"> Marcel Vos</a>, <a href="https://inspirehep.net/authors/1077733"> Eleni Vryonidou</a>, <a href="https://inspirehep.net/authors/1024738"> Chris D. White</a>, <a href="https://inspirehep.net/authors/1037901"> Martin J. White</a>, <a href="https://inspirehep.net/authors/1802071"> Andrew J. Wildridge</a>, <a href="https://inspirehep.net/authors/2724147"> Tong Arthur Wu</a>, <a href="https://inspirehep.net/authors/1753298"> Laura Zani</a>, <a href="https://inspirehep.net/authors/2830380"> Yulei Zhang</a>, <a href="https://inspirehep.net/authors/1508982"> Knut Zoch</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2504.00086">arXiv:2504.00086</a>:</strong> 31 March 2025 
++ <strong>Published in <a href="https://doi.org/10.1140/epjp/s13360-025-06752-9">Eur.Phys.J.Plus</a>:</strong> 09 September 2025</details>
+
+<details>
+<summary> (2025) <b>Tests of quantum contextuality in particle physics</b> [<a href="https://arxiv.org/abs/2504.12382">arXiv</a>] [<a href="https://doi.org/10.1103/22zl-ltxm">DOI</a>] [<a href="https://inspirehep.net/literature/2913431">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> M. Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> R. Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> E. Gabrielli</a>, <a href="https://inspirehep.net/authors/1273305"> L. Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2504.12382">arXiv:2504.12382</a>:</strong> 16 April 2025 
++ <strong>Published in <a href="https://doi.org/10.1103/22zl-ltxm">Phys.Rev.D</a>:</strong> 01 August 2025</details>
+
+<details>
+<summary> (2024) <b>Quantum entanglement and Bell inequality violation at colliders</b> [<a href="https://arxiv.org/abs/2402.07972">arXiv</a>] [<a href="https://doi.org/10.1016/j.ppnp.2024.104134">DOI</a>] [<a href="https://inspirehep.net/literature/2757981">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2402.07972">arXiv:2402.07972</a>:</strong> 12 February 2024 
++ <strong>Published in <a href="https://doi.org/10.1016/j.ppnp.2024.104134">Prog.Part.Nucl.Phys.</a>:</strong> 19 July 2024</details>
+
+<details>
+<summary> (2024) <b>Flavor Patterns of Fundamental Particles from Quantum Entanglement?</b> [<a href="https://arxiv.org/abs/2410.23343">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.111.056021">DOI</a>] [<a href="https://inspirehep.net/literature/2844264">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1054400"> Jesse Thaler</a>, <a href="https://inspirehep.net/authors/1778841"> Sokratis Trifinopoulos</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2410.23343">arXiv:2410.23343</a>:</strong> 30 October 2024 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.111.056021">Phys.Rev.D</a>:</strong> 01 March 2025</details>
+
+<details>
+<summary> (2026) <b>Photon-nucleon entanglement in Compton scattering at low and high energies</b> [<a href="https://arxiv.org/abs/2608.05330">arXiv</a>] [<a href="https://inspirehep.net/literature/3188079">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1006500"> Yoshitaka Hatta</a>, <a href="https://inspirehep.net/authors/1844688"> Víctor Martínez-Fernández</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2608.05330">arXiv:2608.05330</a>:</strong> 05 August 2026</details>
 
 
-##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Photon and Lepton Processes}}$
+##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Charged Leptons}}$
 
 
 
 ###  $\textbf{{\color{#5BC0EB}Quantum Information - Entanglement and Bell Nonlocality}}$
 
 
+
+<details>
+<summary> (2023) <b>Testing Bell inequality through $h\to\tau\tau$ at CEPC</b> [<a href="https://arxiv.org/abs/2309.08103">arXiv</a>] [<a href="https://doi.org/10.1088/1674-1137/ad62d8">DOI</a>] [<a href="https://inspirehep.net/literature/2698185">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1444931"> Kai Ma</a>, <a href="https://inspirehep.net/authors/1600487"> Tong Li</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2309.08103">arXiv:2309.08103</a>:</strong> 14 September 2023 
++ <strong>Published in <a href="https://doi.org/10.1088/1674-1137/ad62d8">Chin.Phys.C</a>:</strong> 2024</details>
+
+<details>
+<summary> (2026) <b>Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\rightarrowτ^+τ^-$ Decays</b> [<a href="https://arxiv.org/abs/2603.28868">arXiv</a>] [<a href="https://inspirehep.net/literature/3137624">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1071846"> Lawrence Lee</a>, <a href="https://inspirehep.net/authors/2690094"> John Lawless</a>, <a href="https://inspirehep.net/authors/2830295"> Caroline Riggall</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2603.28868">arXiv:2603.28868</a>:</strong> 30 March 2026</details>
+
+<details>
+<summary> (2024) <b>Quantum tomography with $\tau$ leptons at the FCC-ee</b> [<a href="https://arxiv.org/abs/2405.09201">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.110.076004">DOI</a>] [<a href="https://inspirehep.net/literature/2787034">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> M. Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1273305"> L. Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2405.09201">arXiv:2405.09201</a>:</strong> 15 May 2024 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.110.076004">Phys.Rev.D</a>:</strong> 01 October 2024</details>
 
 <details>
 <summary> (2024) <b>Prospects of measuring quantum entanglement in $\tau\tau$ final states at a future $e^+e^-$ Higgs factory</b> [<a href="https://arxiv.org/abs/2409.20239">arXiv</a>] [<a href="https://doi.org/10.1051/epjconf/202431501005">DOI</a>] [<a href="https://inspirehep.net/literature/2835996">INSPIRE</a>] <code>Expand</code> </summary>
@@ -878,24 +955,107 @@
 + <strong>Published in <a href="https://doi.org/10.1051/epjconf/202431501005">EPJ Web Conf.</a>:</strong> 2024</details>
 
 <details>
-<summary> (2026) <b>Quantum entanglement of photon pairs at proton-proton colliders</b> [<a href="https://arxiv.org/abs/2607.00971">arXiv</a>] [<a href="https://inspirehep.net/literature/3176266">INSPIRE</a>] <code>Expand</code><br> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1890728"> Yue Pan</a>, <a href="https://inspirehep.net/authors/3088444"> Yipin Wang</a>, <a href="https://inspirehep.net/authors/2854566"> Leyun Gao</a>, <a href="https://inspirehep.net/authors/1074984"> Qiang Li</a>, <a href="https://inspirehep.net/authors/1079132"> Chen Zhou</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2607.00971">arXiv:2607.00971</a>:</strong> 01 July 2026</details>
-
-<details>
 <summary> (2023) <b>Probing entanglement and testing Bell inequality violation with $\textrm{e}^{+}\textrm{e}^{-} \rightarrow \tau^{+}\tau^{-}$ at Belle II</b> [<a href="https://arxiv.org/abs/2311.17555">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.109.032005">DOI</a>] [<a href="https://inspirehep.net/literature/2727866">INSPIRE</a>] <code>Expand</code> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1623771"> Karl Ehatäht</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>, <a href="https://inspirehep.net/authors/984870"> Christian Veelken</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2311.17555">arXiv:2311.17555</a>:</strong> 29 November 2023 
 + <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.109.032005">Phys.Rev.D</a>:</strong> 01 February 2024</details>
 
-<details>
-<summary> (2016) <b>Potential of the J-PET detector for studies of discrete symmetries in decays of positronium atom - a purely leptonic system</b> [<a href="https://arxiv.org/abs/1602.05226">arXiv</a>] [<a href="https://doi.org/10.5506/APhysPolB.47.509">DOI</a>] [<a href="https://inspirehep.net/literature/1422075">INSPIRE</a>] <code>Expand</code> </summary>
 
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/996703"> P. Moskal</a>, <a href="https://inspirehep.net/authors/2555702"> D. Alfs</a>, <a href="https://inspirehep.net/authors/1269954"> T. Bednarski</a>, <a href="https://inspirehep.net/authors/1016421"> P. Białas</a>, <a href="https://inspirehep.net/authors/1032852"> E. Czerwiński</a>, <a href="https://inspirehep.net/authors/993589"> C. Curceanu</a>, <a href="https://inspirehep.net/authors/1382230"> A. Gajos</a>, <a href="https://inspirehep.net/authors/2407186"> B. Głowacz</a>, <a href="https://inspirehep.net/authors/1955406"> M. Gorgol</a>, <a href="https://inspirehep.net/authors/1006055"> B.C. Hiesmayr</a>, <a href="https://inspirehep.net/authors/1963837"> B. Jasińska</a>, <a href="https://inspirehep.net/authors/1382232"> D. Kamińska</a>, <a href="https://inspirehep.net/authors/1261689"> G. Korcyl</a>, <a href="https://inspirehep.net/authors/1382255"> P. Kowalski</a>, <a href="https://inspirehep.net/authors/1029168"> T. Kozik</a>, <a href="https://inspirehep.net/authors/1061521"> W. Krzemień</a>, <a href="https://inspirehep.net/authors/1474081"> N. Krawczyk</a>, <a href="https://inspirehep.net/authors/1382234"> E. Kubicz</a>, <a href="https://inspirehep.net/authors/1955405"> M. Mohammed</a>, <a href="https://inspirehep.net/authors/1382239"> Sz. Niedźwiecki</a>, <a href="https://inspirehep.net/authors/1382240"> M. Pawlik-Niedźwiecka</a>, <a href="https://inspirehep.net/authors/1317814"> L. Raczyński</a>, <a href="https://inspirehep.net/authors/1058993"> Z. Rudy</a>, <a href="https://inspirehep.net/authors/1060315"> M. Silarski</a>, <a href="https://inspirehep.net/authors/1382246"> A. Wieczorek</a>, <a href="https://inspirehep.net/authors/1963759"> W. Wiślicki</a>, <a href="https://inspirehep.net/authors/982032"> M. Zieliński</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/1602.05226">arXiv:1602.05226</a>:</strong> 16 February 2016 
-+ <strong>Published in <a href="https://doi.org/10.5506/APhysPolB.47.509">Acta Phys.Polon.B</a>:</strong> 2016</details>
+
+###  $\textbf{{\color{#5BC0EB}Quantum Information - State Tomography and Characterization}}$
+
+
+
+<details>
+<summary> (2026) <b>Experimental aspects of the Quantum Tomography of tau lepton pairs at a Higgs factory collider</b> [<a href="https://arxiv.org/abs/2603.12609">arXiv</a>] [<a href="https://doi.org/10.1140/epjc/s10052-026-15804-y">DOI</a>] [<a href="https://inspirehep.net/literature/3129062">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1055508"> Daniel Jeans</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2603.12609">arXiv:2603.12609</a>:</strong> 13 March 2026 
++ <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-026-15804-y">Eur.Phys.J.C</a>:</strong> 19 May 2026</details>
+
+
+
+###  $\textbf{{\color{#5BC0EB}Crosslists}}$
+
+
+
+<details>
+<summary> (2022) <b>Constraining new physics in entangled two-qubit systems: top-quark, tau-lepton and photon pairs</b> [<a href="https://arxiv.org/abs/2208.11723">arXiv</a>] [<a href="https://doi.org/10.1140/epjc/s10052-023-11307-2">DOI</a>] [<a href="https://inspirehep.net/literature/2141744">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2208.11723">arXiv:2208.11723</a>:</strong> 24 August 2022 
++ <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-023-11307-2">Eur.Phys.J.C</a>:</strong> 19 February 2023</details>
+
+<details>
+<summary> (2025) <b>Quantum Information meets High-Energy Physics: Input to the update of the European Strategy for Particle Physics</b> [<a href="https://arxiv.org/abs/2504.00086">arXiv</a>] [<a href="https://doi.org/10.1140/epjp/s13360-025-06752-9">DOI</a>] [<a href="https://inspirehep.net/literature/2906652">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1455823"> Yoav Afik</a>, <a href="https://inspirehep.net/authors/1334857"> Federica Fabbri</a>, <a href="https://inspirehep.net/authors/1061156"> Matthew Low</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>, <a href="https://inspirehep.net/authors/1231884"> Juan Antonio Aguilar-Saavedra</a>, <a href="https://inspirehep.net/authors/1954648"> Mohammad Mahdi Altakach</a>, <a href="https://inspirehep.net/authors/1091378"> Nedaa Alexandra Asbah</a>, <a href="https://inspirehep.net/authors/1054212"> Yang Bai</a>, <a href="https://inspirehep.net/authors/1967235"> Hannah Banks</a>, <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/2032491"> Alexander Bernal</a>, <a href="https://inspirehep.net/authors/1015202"> Thomas E. Browder</a>, <a href="https://inspirehep.net/authors/1904170"> Paweł Caban</a>, <a href="https://inspirehep.net/authors/1014357"> J. Alberto Casas</a>, <a href="https://inspirehep.net/authors/2620041"> Kun Cheng</a>, <a href="https://inspirehep.net/authors/1012113"> Frédéric Déliot</a>, <a href="https://inspirehep.net/authors/1012064"> Regina Demina</a>, <a href="https://inspirehep.net/authors/1011596"> Antonio Di Domenico</a>, <a href="https://inspirehep.net/authors/1287212"> Michał Eckstein</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1024288"> Benjamin Fuks</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>, <a href="https://inspirehep.net/authors/1078269"> Dorival Gonçalves</a>, <a href="https://inspirehep.net/authors/2050935"> Radosław Grabarczyk</a>, <a href="https://inspirehep.net/authors/1990556"> Michele Grossi</a>, <a href="https://inspirehep.net/authors/1006825"> Tao Han</a>, <a href="https://inspirehep.net/authors/1057163"> Timothy J. Hobbs</a>, <a href="https://inspirehep.net/authors/1905321"> Paweł Horodecki</a>, <a href="https://inspirehep.net/authors/1071838"> James Howarth</a>, <a href="https://inspirehep.net/authors/1028683"> Shih-Chieh Hsu</a>, <a href="https://inspirehep.net/authors/1269829"> Stephen Jiggins</a>, <a href="https://inspirehep.net/authors/1861254"> Eleanor Jones</a>, <a href="https://inspirehep.net/authors/1032452"> Andreas W. Jung</a>, <a href="https://inspirehep.net/authors/1071843"> Andrea Helen Knue</a>, <a href="https://inspirehep.net/authors/1885043"> Steffen Korn</a>, <a href="https://inspirehep.net/authors/1001277"> Theodota Lagouri</a>, <a href="https://inspirehep.net/authors/1915298"> Priyanka Lamba</a>, <a href="https://inspirehep.net/authors/1949269"> Gabriel T. Landi</a>, <a href="https://inspirehep.net/authors/1057147"> Haifeng Li</a>, <a href="https://inspirehep.net/authors/2140295"> Qiang Li</a>, <a href="https://inspirehep.net/authors/999724"> Ian Low</a>, <a href="https://inspirehep.net/authors/999053"> Fabio Maltoni</a>, <a href="https://inspirehep.net/authors/1071859"> Josh McFayden</a>, <a href="https://inspirehep.net/authors/1751811"> Navin McGinnis</a>, <a href="https://inspirehep.net/authors/1657037"> Roberto A. Morales</a>, <a href="https://inspirehep.net/authors/996862"> Jesús M. Moreno</a>, <a href="https://inspirehep.net/authors/1869844"> Juan Ramón Muñoz de Nova</a>, <a href="https://inspirehep.net/authors/1414306"> Giulia Negro</a>, <a href="https://inspirehep.net/authors/1274353"> Davide Pagani</a>, <a href="https://inspirehep.net/authors/1635385"> Giovanni Pelliccioli</a>, <a href="https://inspirehep.net/authors/1066609"> Michele Pinamonti</a>, <a href="https://inspirehep.net/authors/2654729"> Laura Pintucci</a>, <a href="https://inspirehep.net/authors/1495662"> Baptiste Ravina</a>, <a href="https://inspirehep.net/authors/1921611"> Alim Ruzi</a>, <a href="https://inspirehep.net/authors/1058900"> Kazuki Sakurai</a>, <a href="https://inspirehep.net/authors/2013296"> Ethan Simpson</a>, <a href="https://inspirehep.net/authors/988532"> Maximiliano Sioli</a>, <a href="https://inspirehep.net/authors/987285"> Shufang Su</a>, <a href="https://inspirehep.net/authors/1778841"> Sokratis Trifinopoulos</a>, <a href="https://inspirehep.net/authors/1020433"> Sven E. Vahsen</a>, <a href="https://inspirehep.net/authors/1028732"> Sofia Vallecorsa</a>, <a href="https://inspirehep.net/authors/984708"> Alessandro Vicini</a>, <a href="https://inspirehep.net/authors/1020538"> Marcel Vos</a>, <a href="https://inspirehep.net/authors/1077733"> Eleni Vryonidou</a>, <a href="https://inspirehep.net/authors/1024738"> Chris D. White</a>, <a href="https://inspirehep.net/authors/1037901"> Martin J. White</a>, <a href="https://inspirehep.net/authors/1802071"> Andrew J. Wildridge</a>, <a href="https://inspirehep.net/authors/2724147"> Tong Arthur Wu</a>, <a href="https://inspirehep.net/authors/1753298"> Laura Zani</a>, <a href="https://inspirehep.net/authors/2830380"> Yulei Zhang</a>, <a href="https://inspirehep.net/authors/1508982"> Knut Zoch</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2504.00086">arXiv:2504.00086</a>:</strong> 31 March 2025 
++ <strong>Published in <a href="https://doi.org/10.1140/epjp/s13360-025-06752-9">Eur.Phys.J.Plus</a>:</strong> 09 September 2025</details>
+
+<details>
+<summary> (2025) <b>Tests of quantum contextuality in particle physics</b> [<a href="https://arxiv.org/abs/2504.12382">arXiv</a>] [<a href="https://doi.org/10.1103/22zl-ltxm">DOI</a>] [<a href="https://inspirehep.net/literature/2913431">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> M. Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> R. Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> E. Gabrielli</a>, <a href="https://inspirehep.net/authors/1273305"> L. Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2504.12382">arXiv:2504.12382</a>:</strong> 16 April 2025 
++ <strong>Published in <a href="https://doi.org/10.1103/22zl-ltxm">Phys.Rev.D</a>:</strong> 01 August 2025</details>
+
+<details>
+<summary> (2017) <b>Maximal Entanglement in High Energy Physics</b> [<a href="https://arxiv.org/abs/1703.02989">arXiv</a>] [<a href="https://doi.org/10.21468/SciPostPhys.3.5.036">DOI</a>] [<a href="https://inspirehep.net/literature/1516805">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1709061"> Alba Cervera-Lierta</a>, <a href="https://inspirehep.net/authors/1000999"> José I. Latorre</a>, <a href="https://inspirehep.net/authors/1019897"> Juan Rojo</a>, <a href="https://inspirehep.net/authors/1337744"> Luca Rottoli</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/1703.02989">arXiv:1703.02989</a>:</strong> 08 March 2017 
++ <strong>Published in <a href="https://doi.org/10.21468/SciPostPhys.3.5.036">SciPost Phys. 3, 036 (2017)</a>:</strong> 24 November 2017</details>
+
+<details>
+<summary> (2024) <b>Quantum entanglement and Bell inequality violation at colliders</b> [<a href="https://arxiv.org/abs/2402.07972">arXiv</a>] [<a href="https://doi.org/10.1016/j.ppnp.2024.104134">DOI</a>] [<a href="https://inspirehep.net/literature/2757981">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2402.07972">arXiv:2402.07972</a>:</strong> 12 February 2024 
++ <strong>Published in <a href="https://doi.org/10.1016/j.ppnp.2024.104134">Prog.Part.Nucl.Phys.</a>:</strong> 19 July 2024</details>
+
+<details>
+<summary> (2024) <b>Flavor Patterns of Fundamental Particles from Quantum Entanglement?</b> [<a href="https://arxiv.org/abs/2410.23343">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.111.056021">DOI</a>] [<a href="https://inspirehep.net/literature/2844264">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1054400"> Jesse Thaler</a>, <a href="https://inspirehep.net/authors/1778841"> Sokratis Trifinopoulos</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2410.23343">arXiv:2410.23343</a>:</strong> 30 October 2024 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.111.056021">Phys.Rev.D</a>:</strong> 01 March 2025</details>
+
+<details>
+<summary> (2025) <b>Colliders are not Testing Locality via Bell's Inequality nor Providing an Unconditional Proof of Entanglement</b> [<a href="https://arxiv.org/abs/2507.15949">arXiv</a>] [<a href="https://doi.org/10.1007/JHEP08(2026)067">DOI</a>] [<a href="https://inspirehep.net/literature/2952954">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1019047"> Steven A. Abel</a>, <a href="https://inspirehep.net/authors/1011410"> Herbi K. Dreiner</a>, <a href="https://inspirehep.net/authors/1751817"> Rhitaja Sengupta</a>, <a href="https://inspirehep.net/authors/1064818"> Lorenzo Ubaldi</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2507.15949">arXiv:2507.15949</a>:</strong> 21 July 2025 
++ <strong>Published in <a href="https://doi.org/10.1007/JHEP08(2026)067">JHEP</a>:</strong> 07 August 2026</details>
+
+<details>
+<summary> (2026) <b>Photon-nucleon entanglement in Compton scattering at low and high energies</b> [<a href="https://arxiv.org/abs/2608.05330">arXiv</a>] [<a href="https://inspirehep.net/literature/3188079">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1006500"> Yoshitaka Hatta</a>, <a href="https://inspirehep.net/authors/1844688"> Víctor Martínez-Fernández</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2608.05330">arXiv:2608.05330</a>:</strong> 05 August 2026</details>
+
+<details>
+<summary> (2023) <b>Entanglement Entropy of Compton Scattering with a Witness</b> [<a href="https://arxiv.org/abs/2305.10027">arXiv</a>] [<a href="https://doi.org/10.1139/cjp-2023-0142">DOI</a>] [<a href="https://inspirehep.net/literature/2660572">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2163793"> Shanmuka Shivashankara</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2305.10027">arXiv:2305.10027</a>:</strong> 17 May 2023 
++ <strong>Published in <a href="https://doi.org/10.1139/cjp-2023-0142">Can. J. Phys. (2023)</a>:</strong> 31 July 2023</details>
+
+
+##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - Photons}}$
+
+
+
+###  $\textbf{{\color{#5BC0EB}Quantum Information - Entanglement and Bell Nonlocality}}$
+
+
+
+<details>
+<summary> (2026) <b>Quantum entanglement of photon pairs at proton-proton colliders</b> [<a href="https://arxiv.org/abs/2607.00971">arXiv</a>] [<a href="https://inspirehep.net/literature/3176266">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1890728"> Yue Pan</a>, <a href="https://inspirehep.net/authors/3088444"> Yipin Wang</a>, <a href="https://inspirehep.net/authors/2854566"> Leyun Gao</a>, <a href="https://inspirehep.net/authors/1074984"> Qiang Li</a>, <a href="https://inspirehep.net/authors/1079132"> Chen Zhou</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2607.00971">arXiv:2607.00971</a>:</strong> 01 July 2026</details>
 
 <details>
 <summary> (2017) <b>Genuine Multipartite Entanglement in the $3$-Photon Decay of Positronium</b> [<a href="https://arxiv.org/abs/1706.06505">arXiv</a>] [<a href="https://doi.org/10.1038/s41598-017-15356-y">DOI</a>] [<a href="https://inspirehep.net/literature/1606137">INSPIRE</a>] <code>Expand</code> </summary>
@@ -945,6 +1105,18 @@
 
 
 
+###  $\textbf{{\color{#5BC0EB}Quantum Information - State Tomography and Characterization}}$
+
+
+
+<details>
+<summary> (2026) <b>High Energy Photon Polarimetry at Lepton Colliders: Quantum Information from Converted Photons</b> [<a href="https://arxiv.org/abs/2607.08816">arXiv</a>] [<a href="https://inspirehep.net/literature/3179608">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1823109"> Carlos Henrique de Lima</a>, <a href="https://inspirehep.net/authors/1751811"> Navin McGinnis</a>, <a href="https://inspirehep.net/authors/1046699"> David McKeen</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2607.08816">arXiv:2607.08816</a>:</strong> 09 July 2026</details>
+
+
+
 ###  $\textbf{{\color{#5BC0EB}Quantum Information - Entanglement Entropy and Complexity}}$
 
 
@@ -958,55 +1130,50 @@
 
 
 
-###  $\textbf{{\color{#5BC0EB}Quantum Information - State Tomography and Characterization}}$
-
-
-
-<details>
-<summary> (2026) <b>Experimental aspects of the Quantum Tomography of tau lepton pairs at a Higgs factory collider</b> [<a href="https://arxiv.org/abs/2603.12609">arXiv</a>] [<a href="https://doi.org/10.1140/epjc/s10052-026-15804-y">DOI</a>] [<a href="https://inspirehep.net/literature/3129062">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1055508"> Daniel Jeans</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2603.12609">arXiv:2603.12609</a>:</strong> 13 March 2026 
-+ <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-026-15804-y">Eur.Phys.J.C</a>:</strong> 19 May 2026</details>
-
-<details>
-<summary> (2021) <b>Testing CPT symmetry in ortho-positronium decays with positronium annihilation tomography</b> [<a href="https://arxiv.org/abs/2112.04235">arXiv</a>] [<a href="https://doi.org/10.1038/s41467-021-25905-9">DOI</a>] [<a href="https://inspirehep.net/literature/1955404">INSPIRE</a>] <code>Expand</code> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/996703"> Paweł Moskal</a>, <a href="https://inspirehep.net/authors/1382230"> Aleksander Gajos</a>, <a href="https://inspirehep.net/authors/1955405"> Muhsin Mohammed</a>, <a href="https://inspirehep.net/authors/1060315"> Jyoti Chhokar</a>, <a href="https://inspirehep.net/authors/1876705"> Neha Chug</a>, <a href="https://inspirehep.net/authors/993589"> Catalina Curceanu</a>, <a href="https://inspirehep.net/authors/1032852"> Eryk Czerwiński</a>, <a href="https://inspirehep.net/authors/1876706"> Meysam Dadgar</a>, <a href="https://inspirehep.net/authors/1913427"> Kamil Dulski</a>, <a href="https://inspirehep.net/authors/1955406"> Marek Gorgol</a>, <a href="https://inspirehep.net/authors/1955407"> Jacek Goworek</a>, <a href="https://inspirehep.net/authors/1006055"> Beatrix Hiesmayr</a>, <a href="https://inspirehep.net/authors/1963837"> Bożena Jasińska</a>, <a href="https://inspirehep.net/authors/1060315"> Krzysztof Kacprzak</a>, <a href="https://inspirehep.net/authors/1382256"> Łukasz Kapłon</a>, <a href="https://inspirehep.net/authors/1735315"> Hanieh Karimi</a>, <a href="https://inspirehep.net/authors/1382232"> Daria Kisielewska</a>, <a href="https://inspirehep.net/authors/1043500"> Konrad Klimaszewski</a>, <a href="https://inspirehep.net/authors/1261689"> Grzegorz Korcyl</a>, <a href="https://inspirehep.net/authors/1382255"> Paweł Kowalski</a>, <a href="https://inspirehep.net/authors/1474081"> Nikodem Krawczyk</a>, <a href="https://inspirehep.net/authors/1061521"> Wojciech Krzemień</a>, <a href="https://inspirehep.net/authors/1029168"> Tomasz Kozik</a>, <a href="https://inspirehep.net/authors/1382234"> Ewelina Kubicz</a>, <a href="https://inspirehep.net/authors/1382239"> Szymon Niedźwiecki</a>, <a href="https://inspirehep.net/authors/1876709"> Szymon Parzych</a>, <a href="https://inspirehep.net/authors/1382240"> Monika Pawlik-Niedźwiecka</a>, <a href="https://inspirehep.net/authors/1317814"> Lech Raczyński</a>, <a href="https://inspirehep.net/authors/1876710"> Juhi Raj</a>, <a href="https://inspirehep.net/authors/1074413"> Sushil Sharma</a>, <a href="https://inspirehep.net/authors/1871858"> Shivani Choudhary</a>, <a href="https://inspirehep.net/authors/1913417"> Roman Shopa</a>, <a href="https://inspirehep.net/authors/1955409"> Andrzej Sienkiewicz</a>, <a href="https://inspirehep.net/authors/1060315"> Michał Silarski</a>, <a href="https://inspirehep.net/authors/1072191"> Magdalena Skurzok</a>, <a href="https://inspirehep.net/authors/1489124"> E. Ł. Stępień</a>, <a href="https://inspirehep.net/authors/1876714"> Faranak Tayefi</a>, <a href="https://inspirehep.net/authors/983354"> Wojciech Wiślicki</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2112.04235">arXiv:2112.04235</a>:</strong> 08 December 2021 
-+ <strong>Published in <a href="https://doi.org/10.1038/s41467-021-25905-9">Nature Commun.</a>:</strong> 27 September 2021</details>
-
-<details>
-<summary> (2026) <b>High Energy Photon Polarimetry at Lepton Colliders: Quantum Information from Converted Photons</b> [<a href="https://arxiv.org/abs/2607.08816">arXiv</a>] [<a href="https://inspirehep.net/literature/3179608">INSPIRE</a>] <code>Expand</code><br> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1823109"> Carlos Henrique de Lima</a>, <a href="https://inspirehep.net/authors/1751811"> Navin McGinnis</a>, <a href="https://inspirehep.net/authors/1046699"> David McKeen</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2607.08816">arXiv:2607.08816</a>:</strong> 09 July 2026</details>
-
-
-
 ###  $\textbf{{\color{#5BC0EB}Crosslists}}$
 
 
 
 <details>
-<summary> (2024) <b>Quantum tomography with $\tau$ leptons at the FCC-ee</b> [<a href="https://arxiv.org/abs/2405.09201">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.110.076004">DOI</a>] [<a href="https://inspirehep.net/literature/2787034">INSPIRE</a>] <code>Expand</code> </summary>
+<summary> (2022) <b>Constraining new physics in entangled two-qubit systems: top-quark, tau-lepton and photon pairs</b> [<a href="https://arxiv.org/abs/2208.11723">arXiv</a>] [<a href="https://doi.org/10.1140/epjc/s10052-023-11307-2">DOI</a>] [<a href="https://inspirehep.net/literature/2141744">INSPIRE</a>] <code>Expand</code> </summary>
 
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> M. Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1273305"> L. Marzola</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2405.09201">arXiv:2405.09201</a>:</strong> 15 May 2024 
-+ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.110.076004">Phys.Rev.D</a>:</strong> 01 October 2024</details>
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2208.11723">arXiv:2208.11723</a>:</strong> 24 August 2022 
++ <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-023-11307-2">Eur.Phys.J.C</a>:</strong> 19 February 2023</details>
 
 <details>
-<summary> (2017) <b>Quantum tomography for collider physics: Illustrations with lepton pair production</b> [<a href="https://arxiv.org/abs/1707.01638">arXiv</a>] [<a href="https://doi.org/10.1140/epjc/s10052-017-5455-8">DOI</a>] [<a href="https://inspirehep.net/literature/1608880">INSPIRE</a>] <code>Expand</code> </summary>
+<summary> (2017) <b>Maximal Entanglement in High Energy Physics</b> [<a href="https://arxiv.org/abs/1703.02989">arXiv</a>] [<a href="https://doi.org/10.21468/SciPostPhys.3.5.036">DOI</a>] [<a href="https://inspirehep.net/literature/1516805">INSPIRE</a>] <code>Expand</code> </summary>
 
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2135256"> John C. Martens</a>, <a href="https://inspirehep.net/authors/992371"> John P. Ralston</a>, <a href="https://inspirehep.net/authors/1046703"> J. D. Tapia Takaki</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/1707.01638">arXiv:1707.01638</a>:</strong> 06 July 2017 
-+ <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-017-5455-8">Eur.Phys.J.C</a>:</strong> 30 December 2017</details>
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1709061"> Alba Cervera-Lierta</a>, <a href="https://inspirehep.net/authors/1000999"> José I. Latorre</a>, <a href="https://inspirehep.net/authors/1019897"> Juan Rojo</a>, <a href="https://inspirehep.net/authors/1337744"> Luca Rottoli</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/1703.02989">arXiv:1703.02989</a>:</strong> 08 March 2017 
++ <strong>Published in <a href="https://doi.org/10.21468/SciPostPhys.3.5.036">SciPost Phys. 3, 036 (2017)</a>:</strong> 24 November 2017</details>
+
+<details>
+<summary> (2023) <b>Exploring Bell inequalities and quantum entanglement in vector boson scattering</b> [<a href="https://arxiv.org/abs/2306.17247">arXiv</a>] [<a href="https://doi.org/10.1140/epjp/s13360-023-04784-7">DOI</a>] [<a href="https://inspirehep.net/literature/2673433">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1657037"> R.A. Morales</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2306.17247">arXiv:2306.17247</a>:</strong> 29 June 2023 
++ <strong>Published in <a href="https://doi.org/10.1140/epjp/s13360-023-04784-7">Eur.Phys.J.Plus</a>:</strong> 29 December 2023</details>
+
+<details>
+<summary> (2024) <b>Quantum entanglement and Bell inequality violation at colliders</b> [<a href="https://arxiv.org/abs/2402.07972">arXiv</a>] [<a href="https://doi.org/10.1016/j.ppnp.2024.104134">DOI</a>] [<a href="https://inspirehep.net/literature/2757981">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/1010482"> Marco Fabbrichesi</a>, <a href="https://inspirehep.net/authors/1009800"> Roberto Floreanini</a>, <a href="https://inspirehep.net/authors/1009120"> Emidio Gabrielli</a>, <a href="https://inspirehep.net/authors/1273305"> Luca Marzola</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2402.07972">arXiv:2402.07972</a>:</strong> 12 February 2024 
++ <strong>Published in <a href="https://doi.org/10.1016/j.ppnp.2024.104134">Prog.Part.Nucl.Phys.</a>:</strong> 19 July 2024</details>
 
 <details>
 <summary> (2025) <b>Entanglement Detection with Rotationally Covariant Measurements -- From Compton Scattering to Lemonade</b> [<a href="https://arxiv.org/abs/2512.03984">arXiv</a>] [<a href="https://inspirehep.net/literature/3089176">INSPIRE</a>] <code>Expand</code><br> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2905822"> Marlene Funck</a>, <a href="https://inspirehep.net/authors/3089179"> Ilija Funk</a>, <a href="https://inspirehep.net/authors/1963342"> Tizian Schmidt</a>, <a href="https://inspirehep.net/authors/1956762"> René Schwonnek</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2512.03984">arXiv:2512.03984</a>:</strong> 03 December 2025</details>
+
+<details>
+<summary> (2022) <b>A General Analysis for Observing Quantum Interference at Colliders</b> [<a href="https://arxiv.org/abs/2201.03159">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.105.096012">DOI</a>] [<a href="https://inspirehep.net/literature/2006954">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1044762"> Andrew J. Larkoski</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2201.03159">arXiv:2201.03159</a>:</strong> 09 January 2022 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.105.096012">Phys.Rev.D</a>:</strong> 01 May 2022</details>
 
 
 ##  $\textbf{{\color{#9BC53D}Particle Scattering and Decays - General Methods}}$
@@ -1060,17 +1227,18 @@
 + <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.111.033004">Phys.Rev.D</a>:</strong> 01 February 2025</details>
 
 <details>
-<summary> (2026) <b>Quantum Information in High-Energy Physics: a top subject</b> [<a href="https://arxiv.org/abs/2610.00467">arXiv</a>] [<a href="https://inspirehep.net/literature/3210446">INSPIRE</a>] <code>Expand</code><br> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1455823"> Yoav Afik</a>, <a href="https://inspirehep.net/authors/1869844"> Juan Ramón Muñoz de Nova</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/2610.00467">arXiv:2610.00467</a>:</strong> 30 September 2026</details>
-
-<details>
 <summary> (2022) <b>Quantum state tomography, entanglement detection and Bell violation prospects in weak decays of massive particles</b> [<a href="https://arxiv.org/abs/2209.13990">arXiv</a>] [<a href="https://doi.org/10.1007/JHEP05(2023)020">DOI</a>] [<a href="https://inspirehep.net/literature/2157995">INSPIRE</a>] <code>Expand</code> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2789214"> Rachel Ashby-Pickering</a>, <a href="https://inspirehep.net/authors/1017290"> Alan J. Barr</a>, <a href="https://inspirehep.net/authors/2157997"> Agnieszka Wierzchucka</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2209.13990">arXiv:2209.13990</a>:</strong> 28 September 2022 
 + <strong>Published in <a href="https://doi.org/10.1007/JHEP05(2023)020">JHEP</a>:</strong> 02 May 2023</details>
+
+<details>
+<summary> (2017) <b>Maximal Entanglement in High Energy Physics</b> [<a href="https://arxiv.org/abs/1703.02989">arXiv</a>] [<a href="https://doi.org/10.21468/SciPostPhys.3.5.036">DOI</a>] [<a href="https://inspirehep.net/literature/1516805">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1709061"> Alba Cervera-Lierta</a>, <a href="https://inspirehep.net/authors/1000999"> José I. Latorre</a>, <a href="https://inspirehep.net/authors/1019897"> Juan Rojo</a>, <a href="https://inspirehep.net/authors/1337744"> Luca Rottoli</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/1703.02989">arXiv:1703.02989</a>:</strong> 08 March 2017 
++ <strong>Published in <a href="https://doi.org/10.21468/SciPostPhys.3.5.036">SciPost Phys. 3, 036 (2017)</a>:</strong> 24 November 2017</details>
 
 <details>
 <summary> (2026) <b>SMEFT Constraints via Quantum Entanglement in Portal-Mediated Scattering</b> [<a href="https://arxiv.org/abs/2610.09751">arXiv</a>] [<a href="https://inspirehep.net/literature/3212551">INSPIRE</a>] <code>Expand</code><br> </summary>
@@ -1086,11 +1254,25 @@
 + <strong>Published in <a href="https://doi.org/10.1016/j.ppnp.2024.104134">Prog.Part.Nucl.Phys.</a>:</strong> 19 July 2024</details>
 
 <details>
+<summary> (2024) <b>Flavor Patterns of Fundamental Particles from Quantum Entanglement?</b> [<a href="https://arxiv.org/abs/2410.23343">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.111.056021">DOI</a>] [<a href="https://inspirehep.net/literature/2844264">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1054400"> Jesse Thaler</a>, <a href="https://inspirehep.net/authors/1778841"> Sokratis Trifinopoulos</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/2410.23343">arXiv:2410.23343</a>:</strong> 30 October 2024 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevD.111.056021">Phys.Rev.D</a>:</strong> 01 March 2025</details>
+
+<details>
 <summary> (2025) <b>Colliders are not Testing Locality via Bell's Inequality nor Providing an Unconditional Proof of Entanglement</b> [<a href="https://arxiv.org/abs/2507.15949">arXiv</a>] [<a href="https://doi.org/10.1007/JHEP08(2026)067">DOI</a>] [<a href="https://inspirehep.net/literature/2952954">INSPIRE</a>] <code>Expand</code> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1019047"> Steven A. Abel</a>, <a href="https://inspirehep.net/authors/1011410"> Herbi K. Dreiner</a>, <a href="https://inspirehep.net/authors/1751817"> Rhitaja Sengupta</a>, <a href="https://inspirehep.net/authors/1064818"> Lorenzo Ubaldi</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2507.15949">arXiv:2507.15949</a>:</strong> 21 July 2025 
 + <strong>Published in <a href="https://doi.org/10.1007/JHEP08(2026)067">JHEP</a>:</strong> 07 August 2026</details>
+
+<details>
+<summary> (2006) <b>An open--quantum--system formulation of particle decay</b> [<a href="https://arxiv.org/abs/quant-ph/0602116">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevA.73.054101">DOI</a>] [<a href="https://inspirehep.net/literature/729754">INSPIRE</a>] <code>Expand</code> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/1016532"> Reinhold A. Bertlmann</a>, <a href="https://inspirehep.net/authors/1007515"> Walter Grimus</a>, <a href="https://inspirehep.net/authors/1006055"> Beatrix C. Hiesmayr</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/quant-ph/0602116">arXiv:quant-ph/0602116</a>:</strong> February 2006 
++ <strong>Published in <a href="https://doi.org/10.1103/PhysRevA.73.054101">Phys.Rev.A</a>:</strong> 2006</details>
 
 <details>
 <summary> (2022) <b>A General Analysis for Observing Quantum Interference at Colliders</b> [<a href="https://arxiv.org/abs/2201.03159">arXiv</a>] [<a href="https://doi.org/10.1103/PhysRevD.105.096012">DOI</a>] [<a href="https://inspirehep.net/literature/2006954">INSPIRE</a>] <code>Expand</code> </summary>
@@ -1127,16 +1309,16 @@
 + <strong>Published in <a href="https://doi.org/10.1140/epjc/s10052-017-5455-8">Eur.Phys.J.C</a>:</strong> 30 December 2017</details>
 
 <details>
-<summary> (2019) <b>Quantum Tomography Measures Entanglement in Collider Reactions</b> [<a href="https://arxiv.org/abs/1910.06311">arXiv</a>] [<a href="https://inspirehep.net/literature/1759762">INSPIRE</a>] <code>Expand</code><br> </summary>
-
-+ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2135256"> John C. Martens</a>, <a href="https://inspirehep.net/authors/992371"> John P. Ralston</a>, <a href="https://inspirehep.net/authors/1046703"> Daniel Tapia Takaki</a>
-+ <strong>Posted on <a href="https://arxiv.org/abs/1910.06311">arXiv:1910.06311</a>:</strong> 14 October 2019</details>
-
-<details>
 <summary> (2025) <b>Entanglement Detection with Rotationally Covariant Measurements -- From Compton Scattering to Lemonade</b> [<a href="https://arxiv.org/abs/2512.03984">arXiv</a>] [<a href="https://inspirehep.net/literature/3089176">INSPIRE</a>] <code>Expand</code><br> </summary>
 
 + <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2905822"> Marlene Funck</a>, <a href="https://inspirehep.net/authors/3089179"> Ilija Funk</a>, <a href="https://inspirehep.net/authors/1963342"> Tizian Schmidt</a>, <a href="https://inspirehep.net/authors/1956762"> René Schwonnek</a>
 + <strong>Posted on <a href="https://arxiv.org/abs/2512.03984">arXiv:2512.03984</a>:</strong> 03 December 2025</details>
+
+<details>
+<summary> (2019) <b>Quantum Tomography Measures Entanglement in Collider Reactions</b> [<a href="https://arxiv.org/abs/1910.06311">arXiv</a>] [<a href="https://inspirehep.net/literature/1759762">INSPIRE</a>] <code>Expand</code><br> </summary>
+
++ <strong>Authors:</strong> <a href="https://inspirehep.net/authors/2135256"> John C. Martens</a>, <a href="https://inspirehep.net/authors/992371"> John P. Ralston</a>, <a href="https://inspirehep.net/authors/1046703"> Daniel Tapia Takaki</a>
++ <strong>Posted on <a href="https://arxiv.org/abs/1910.06311">arXiv:1910.06311</a>:</strong> 14 October 2019</details>
 
 
 
